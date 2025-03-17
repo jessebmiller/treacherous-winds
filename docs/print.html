@@ -1,0 +1,616 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title></title>
+        <meta name="robots" content="noindex">
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="highlight-css" href="highlight.css">
+        <link rel="stylesheet" id="tomorrow-night-css" href="tomorrow-night.css">
+        <link rel="stylesheet" id="ayu-highlight-css" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="toc.js"></script>
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title"></h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="treacherous-winds"><a class="header" href="#treacherous-winds">Treacherous Winds</a></h1>
+<p>WORK IN PROGRESS: Epic Fantasy Role Playing. Nothing more.</p>
+<ul>
+<li>A big deep fantastic world</li>
+<li>Politics and culture</li>
+<li>Interesting magic systems</li>
+<li>Multiple perspectives</li>
+<li>Long character arcs</li>
+</ul>
+<p>This is a System Resource Document (SRD) for a game that hasn't been
+made yet.</p>
+<p>There is enough here to play but its missing some critical parts. I
+hope you'll jump in and try it out then tell me how it goes. That
+would be increadibly helpful and right now is the best way to support
+me and the game.</p>
+<p>You'll find big chunks of this SRD missing with a cold "TBD" if you're
+lucky, or just blank pages if you're not. I may reference other games
+that you may or may not know or have access to. I might say something
+like "Burning Wheel style lifepaths" or "The Conversation from
+Apocalypse World" in place of whole systems or sections until I've
+written them. These are mostly notes for myself, but if you see how it
+would work, by all means try it out and tell me about it.</p>
+<p>For insight into how I'm running this play test take a look at <a href="https://possumcreek.medium.com/boomtown-playtesting-0c6536ae48b0">Jay
+Dragon's Boomtown
+Playtesting</a>
+article.</p>
+<p>Join the <a href="https://discord.gg/dAQG7bcA22">Treacherous Windsd Play Testing Discord
+server</a> if you want to get more
+involved, or just follow along. This server will only run as long as
+the game is in development. Once that's over everyone will be invited
+to a more permenant home for the game.</p>
+<p>I hope we get to play!</p>
+<h2 id="license"><a class="header" href="#license">License</a></h2>
+<p>The contents of this SRD are licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons
+Attribution 4.0 International (CC BY
+4.0)</a> license.</p>
+<h3 id="you-are-free-to"><a class="header" href="#you-are-free-to">You are free to:</a></h3>
+<ul>
+<li>Share — copy and redistribute the material in any medium or format for any purpose, even commercially.</li>
+<li>Adapt — remix, transform, and build upon the material for any purpose, even commercially.</li>
+</ul>
+<p>The licensor (me) cannot revoke these freedoms as long as you follow the license terms.</p>
+<h3 id="under-the-following-terms"><a class="header" href="#under-the-following-terms">Under the following terms:</a></h3>
+<ul>
+<li>Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>
+<li>No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</li>
+</ul>
+<h2 id="notices"><a class="header" href="#notices">Notices:</a></h2>
+<p>You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation .</p>
+<p>No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.</p>
+<p>This deed highlights only some of the key features and terms of the actual license. It is not a license and has no legal value. You should carefully review all of the terms and conditions of the actual license before using the licensed material.</p>
+<p>I'm not a lawyer and do not provide legal services.</p>
+<p>Pinapple is a perfectly good topping for pizza.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="the-game"><a class="header" href="#the-game">The Game</a></h1>
+<p>[--CATS TBD--]</p>
+<p>[--The conversation from Apocalypse World--]</p>
+<h2 id="moves"><a class="header" href="#moves">Moves</a></h2>
+<p>[--To do it, do it from Apocalypse World--]</p>
+<h3 id="example"><a class="header" href="#example">Example</a></h3>
+<p>When you <strong>fight untrained</strong> ask:</p>
+<ul>
+<li>Are you defending yourself or someone you love?</li>
+<li>Are you well rested and sober?</li>
+<li>Are you in control of yourself and not in a rage or driven by
+hubris?</li>
+</ul>
+<p>Roll 1d6 for each yes and choose 1 for each hit.</p>
+<ul>
+<li>Impress, frighten, or dismay them</li>
+<li>Cause physical harm</li>
+<li>Pin them down</li>
+<li>Avoid physical harm</li>
+<li>Aboid being put in a tough spot</li>
+<li>Avoid a turn for the worse</li>
+</ul>
+<h3 id="rolling-with-questions"><a class="header" href="#rolling-with-questions">Rolling with questions</a></h3>
+<p>Most moves will instruct you to answer a few yes/no questions.  Let
+the conversation turn to answering these questions. For every question
+you answer 'yes' to, add 1d6 to the roll. Moves are the primary source
+of the questions, but there may be other sources.
+<a href="./allignment.html">Allignment</a>, for instance, is another. Questions
+from other sources work the same way. If you answer them 'yes', add
+1d6 to your roll.</p>
+<p>[-- for an advanced fuckery like section --] Anyone at the table can
+ask any question they are curious about and at the GMs discression
+those answers might be worth a die for the roll. When the GM grants a
+die, they are saying "yes this makes it more likely you'll do well
+here". This is a judgement call and different GMs might think
+differently about it. For instance "are you afraid?" might be worth a
+die when fighting for som GMs but not for others. Or it might depend
+on the nature of the situation and the fear. When GMs grant a die for
+an ad hoc question, they should consider also if another outcome
+option is worth adding. For instance if someone says "Yes I'm afraid
+that my grandmother will see me fighting and will shame me for it" a
+cleaver GM could add that or a slightly modified outcome
+choice. "Yeah, that's gives you a die, but I'm adding a choice. 'Avoid
+what you fear, or worse'"</p>
+<h3 id="hits-and-outcomes"><a class="header" href="#hits-and-outcomes">Hits and outcomes</a></h3>
+<p>Every die that rolls a 4 or 5 is a hit. Every die that rolls a 6 is 2
+hits.</p>
+<p>Most moves have a list of outcomes.  Choose an outcome for each
+hit. You can choose an outcome more than once if its clear how that
+affects the fiction. Some outcomes describe positive outcomes you are
+likely to want. Others describe avoiding outcomes you are likely to
+want to avoid. When you choose outcomes that describe positive things
+you might want, they happen in a way that's reasonable for the
+fictional situation. If you are <strong>driven by instinct or emotion to
+fight</strong> a trained knight in full plate armor while unarmed and
+untrained, maybe some small damage to the armor, or exaustion to your
+opponent might be the harm.</p>
+<p>Any unchosen options that describe avoiding some outcome amount to
+permission for the GM to inflict that outcome on you and the story.</p>
+<h2 id="principles-and-agendas"><a class="header" href="#principles-and-agendas">Principles and Agendas</a></h2>
+<p>TBD but something like:</p>
+<ul>
+<li>Play to find out what happens</li>
+<li>Make the world fantastic, horrible, and wondrous</li>
+<li>See your characters grow and change as they discover the wonders and
+horrors of the world</li>
+<li>Ask provocative questions and build on the answers</li>
+<li>Name everyone, give everyone humanity, villainy, or both</li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="character-creation"><a class="header" href="#character-creation">Character Creation</a></h1>
+<p>Character creation is very simple. Choose an
+<a href="./allignment.html">allignment</a>, a <a href="./playbooks.html">playbook</a>, and a
+<a href="./background.html">background</a>. Choose pronouns, a name, and breifly
+describe their look.</p>
+<p>You can look ahead to see what each choice offers or you can choose
+whatever catches your eye from below. Write it down as follows.</p>
+<p>"I am a [allignment] [playbook]. Once a [background] but no more."</p>
+<p>You might write. "I am a faithful paladin. Once a sailer but no more"
+or you might write "I am a humble bard. Once a farrier but no more."
+There is no need to make choices that seem to go together unless
+that's what you want. Feel free to write "I am a faithful rogue. Once
+a baker but no more" or whatever combination you want.</p>
+<h2 id="allignment"><a class="header" href="#allignment">Allignment</a></h2>
+<p>Choose one side of one of the following fundamental oppositions.</p>
+<ul>
+<li>Lawful vs. Chaotic</li>
+<li>Pure vs. Depraved</li>
+<li>Civil vs. Wild</li>
+<li>Faithful vs. Curios</li>
+<li>Divine vs. Humane</li>
+<li>Nobil vs. Humble</li>
+</ul>
+<h2 id="playbooks"><a class="header" href="#playbooks">Playbooks</a></h2>
+<p>Choose one playbook. Multiple players can choose the same playbook.</p>
+<ul>
+<li>Fighter</li>
+<li>Rogue</li>
+<li>Ranger</li>
+<li>Bard</li>
+<li>Paladin</li>
+<li>Sorcerer</li>
+</ul>
+<h2 id="background"><a class="header" href="#background">Background</a></h2>
+<p>Choose a background. Before play tell the table how your background
+works where you're from.</p>
+<ul>
+<li>Farmer</li>
+<li>Miller</li>
+<li>Shepherd</li>
+<li>Woodcutter</li>
+<li>Hunter</li>
+<li>Peddler</li>
+<li>Fisher</li>
+<li>Sailer</li>
+<li>Farrier</li>
+<li>Fletcher</li>
+<li>Merchant</li>
+<li>Nobile</li>
+<li>Painter</li>
+<li>Baker</li>
+<li>Musician</li>
+<li>Scribe</li>
+<li>Squire</li>
+<li>Minstril</li>
+<li>Grave Digger</li>
+<li>Choose your own</li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="common-moves"><a class="header" href="#common-moves">Common Moves</a></h1>
+<p>Everyone gets the following moves.</p>
+<h2 id="fight"><a class="header" href="#fight">Fight</a></h2>
+<p>When you <strong>fight untrained</strong> ask:</p>
+<ul>
+<li>Are you defending yourself or someone you love?</li>
+<li>Are you well rested and sober?</li>
+<li>Are you in control of yourself and not in a rage or driven by
+hubris?</li>
+</ul>
+<p>Roll 1d6 for each yes and choose 1 for each hit:</p>
+<ul>
+<li>Cause physical harm</li>
+<li>Be taken seriously</li>
+<li>Scramble away</li>
+<li>Avoid physical harm</li>
+<li>Aboid being put in a tough spot</li>
+<li>Avoid a turn for the worse</li>
+</ul>
+<h2 id="manipulate-someone"><a class="header" href="#manipulate-someone">Manipulate someone</a></h2>
+<p>When you <strong>seduce, bluff, manipulate, or lie</strong> to an NPC, tell them
+what you want them to do. Be ready to give them some payment, a reason
+or concrete assurance then ask:</p>
+<ul>
+<li>Is the request doable, safe, and sane?</li>
+<li>Does no authority disaprove?</li>
+<li>Do you have a positive reputation with them or a group they're in?</li>
+</ul>
+<p>Roll 1d6 for each yes an dchoose 1 for each hit:</p>
+<ul>
+<li>They go along with you as long as they're comfortable</li>
+<li>They don't need concrete assurance to be comfortable</li>
+<li>They don't need a reason to be comfortable</li>
+<li>They don't need payment to be comfortable</li>
+<li>They don't realize you're manipulating them</li>
+<li>They don't turn the tables</li>
+<li>Things don't take a turn for the worse</li>
+</ul>
+<h2 id="intimidate-someone"><a class="header" href="#intimidate-someone">Intimidate someone</a></h2>
+<p>When you <strong>Impose your will with the threat of violence</strong> be ready to
+tell them how you'll know if they defy you and how you'll get to them
+if they do and ask:</p>
+<ul>
+<li>Can they see that you are better equipped than them?</li>
+<li>Are they on their own or backed by fewer than you?</li>
+<li>Are you angry at, frustrated with, or cornered by them?</li>
+<li>Is your demand acceptable to their allignment?</li>
+<li>Do they lack levorage against you?</li>
+</ul>
+<p>Roll 1d6 for each 'yes' and choose 1 for each hit:</p>
+<ul>
+<li>They go along with you if they worry you'll follow through</li>
+<li>They don't need to know how you'll know to worry</li>
+<li>They don't need to know how you'll get to them to worry</li>
+<li>They don't gain a rank of a bond with you and you don't lose a rank
+of a bond with them</li>
+<li>You don't gain a reputation in their circles</li>
+</ul>
+<h2 id="invoke-your-station"><a class="header" href="#invoke-your-station">Invoke your station</a></h2>
+<p>When you <strong>Invoke your position, rank, or station</strong> to make a request
+or demand, ask:</p>
+<ul>
+<li>Do they recognise the symbols of your station?</li>
+<li>Do they see others defering to you?</li>
+<li>Do they fall under your official jurisdiction?</li>
+</ul>
+<p>Roll 1d6 for each 'yes' and <em>THEY</em> either heed your words or <em>THEY</em>
+choose 1 for each hit:</p>
+<ul>
+<li>Accept the punnishments your station allows</li>
+<li>Accept a reputation for insolence</li>
+<li>Accept an economic setback (give valuables, lose a job, etc.)</li>
+</ul>
+<h2 id="control-a-pc"><a class="header" href="#control-a-pc">Control a PC</a></h2>
+<p>When you <strong>seduce, lie, manipulate, bluff, fast talk, threaten, or
+invoke station against</strong> a PC, tell them what you want them to do and
+roll 1d6 for each level of bond you have with them. No other bonuses
+can apply to this roll.</p>
+<p>Choose 1 for each hit:</p>
+<ul>
+<li>If they go along, they mark XP</li>
+<li>If they refuse, you increase your bond with them</li>
+<li>They don't increase their bond with you</li>
+</ul>
+<p>(More TBD)</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="playbooks-1"><a class="header" href="#playbooks-1">Playbooks</a></h1>
+<p>Playbooks are organized into three archetypeal
+categories. <strong>Individuation</strong> playbooks are for those characters going
+out into the world making a name for themselves, becoming heros,
+finding themselves. <strong>Integration</strong> playbooks are for those characters
+learning to lead, integrating themselves into a comminity. And
+<strong>Asscention</strong> Playbooks are for those characters discovering
+something higher, or outside this mortal realm.</p>
+<h2 id="individuation-playbooks"><a class="header" href="#individuation-playbooks">Individuation playbooks</a></h2>
+<ul>
+<li><a href="./playbooks/fighter.html">Fighter</a></li>
+<li><a href="./playbooks/rogue.html">Rogue</a></li>
+<li><a href="./playbooks/bard.html">Bard</a></li>
+<li><a href="./playbooks/ranger.html">Ranger</a></li>
+<li><a href="./playbooks/paladin.html">Paladin</a></li>
+<li><a href="./playbooks/sorcerer.html">Sorcerer</a></li>
+</ul>
+<h2 id="integration-playbooks"><a class="header" href="#integration-playbooks">Integration playbooks</a></h2>
+<p>(not yet written)</p>
+<ul>
+<li>Warlord</li>
+<li>Guildmaster</li>
+<li>Herald</li>
+<li>Warden</li>
+<li>Cleric</li>
+<li>Magister</li>
+</ul>
+<h2 id="ascention-playbooks"><a class="header" href="#ascention-playbooks">Ascention playbooks</a></h2>
+<p>(not yet written)</p>
+<ul>
+<li>Veteran</li>
+<li>Nothing</li>
+<li>Fool</li>
+<li>Druid</li>
+<li>Prophet</li>
+<li>Wizard</li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="fighter"><a class="header" href="#fighter">Fighter</a></h1>
+<h2 id="martial-expertise"><a class="header" href="#martial-expertise">Martial expertise</a></h2>
+<p>When you <strong>fight with martial expertise</strong> ask:</p>
+<ul>
+<li>Are you better equipped?</li>
+<li>Are you ready for a fight?</li>
+<li>Are you taking a defensive position?</li>
+</ul>
+<p>Roll 1d6 for each 'yes' and choose 1 for each hit:</p>
+<ul>
+<li>Inflict precise or devistating physical harm</li>
+<li>Impress, frighten, or dismay them</li>
+<li>Pin them down</li>
+<li>Avoid suffering harm</li>
+<li>Avoid a tough spot</li>
+<li>Avoid a turn for the worse</li>
+</ul>
+<h2 id="expressive-violence"><a class="header" href="#expressive-violence">Expressive violence</a></h2>
+<p>When you <strong>impose your will with the threat of violence</strong> you count as
+angry and better equipped. They never need to know how you'll get to
+them to worry.</p>
+<p>(more TBD)</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="rogue"><a class="header" href="#rogue">Rogue</a></h1>
+<h2 id="style-and-grace"><a class="header" href="#style-and-grace">Style and grace</a></h2>
+<p>When you <strong>fight with style and grace</strong> ask:</p>
+<ul>
+<li>Can you move unconstrained?</li>
+<li>Are you weilding nimble weaponry?</li>
+<li>Are you lighter and quicker than them?</li>
+</ul>
+<p>Roll 1d6 for each 'yes' and choose 1 for each hit:</p>
+<ul>
+<li>Inflict precise harm</li>
+<li>Impress, frighten, or confuse them</li>
+<li>Create and opportunity for escape</li>
+<li>Avoid suffering harm</li>
+<li>Avoid a tough spot</li>
+<li>Avoid a turn for the worse</li>
+</ul>
+<h2 id="sneak-attack"><a class="header" href="#sneak-attack">Sneak attack</a></h2>
+<p>When you <strong>attack from obscurity</strong> ask:</p>
+<ul>
+<li>Is your target unaware of your presense?</li>
+<li>Are you able to wait for the best opportunity?</li>
+<li>Did you have plenty of time to prepare?</li>
+</ul>
+<p>Roll 1d6 for each 'yes' and choose 1 for each hit:</p>
+<ul>
+<li>Inflict any possible harm</li>
+<li>Impress, frighten, or dismay them</li>
+<li>Pin them down</li>
+<li>GM can't choose a specific complication</li>
+<li>GM chooses one fewer complications</li>
+</ul>
+<p>GM chooses up to 7 - the roll's highest die complications:</p>
+<ul>
+<li>Suffer harm</li>
+<li>Put in a tough spot</li>
+<li>Caught and recognized</li>
+<li>A turn for the worse</li>
+</ul>
+<h2 id="roguish-charm"><a class="header" href="#roguish-charm">Roguish charm</a></h2>
+<p>When you <strong>seduce, bluff, manipulate or lie</strong> you always count as
+having a positive reputation and they never need a reason to be
+comfortable.</p>
+<p>(More TBD)</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="bard"><a class="header" href="#bard">Bard</a></h1>
+<h2 id="powerful-performance"><a class="header" href="#powerful-performance">Powerful performance</a></h2>
+<p>When you <strong>perform for a crowd</strong> describe your performance and ask:</p>
+<ul>
+<li>Does the crowd feel safe and comfortable?</li>
+<li>Is alcahol available?</li>
+<li>Is the crowd seeking entertainment?</li>
+<li>Does the performance reveal, clarify, or support their values?</li>
+</ul>
+<p>The audience grants you station with them. You earn what coin your
+audience can easily afford.</p>
+<p>Roll 1d6 for each 'yes' and choose 1 for each hit:</p>
+<ul>
+<li>+1 die when invoking this station with them until they disperse</li>
+<li>Gain a bond with anyone in the crowd. What do you bond over?</li>
+<li>Fortify or shift a culture</li>
+<li>Earn extra coin.</li>
+<li>Avoid a threat or a demand for a favor</li>
+<li>Avoid an unwanted reputation</li>
+</ul>
+<h2 id="practiced-charm"><a class="header" href="#practiced-charm">Practiced charm</a></h2>
+<p>When you <strong>seduce, bluff, manipulate or lie</strong>, they are always
+comfortable.</p>
+<p>(More TBD)</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="ranger"><a class="header" href="#ranger">Ranger</a></h1>
+<h2 id="of-the-land"><a class="header" href="#of-the-land">Of the land</a></h2>
+<p>When you <strong>fight using the terrain for advantage</strong> ask:</p>
+<ul>
+<li>Have you scouted the area?</li>
+<li>Are they less familiar with this terrain than you?</li>
+<li>Did you out prepare your opponent?</li>
+</ul>
+<p>Roll 1d6 for each 'yes' and choose 1 for each hit:</p>
+<ul>
+<li>Inflict precise or incidious harm</li>
+<li>Impress, frighten, or disorient them</li>
+<li>Hold them at bay</li>
+<li>Avoid suffering harm</li>
+<li>Avoid a tough spot</li>
+<li>Avoid a turn for the worse</li>
+</ul>
+<p>(More TBD)</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="paladin"><a class="header" href="#paladin">Paladin</a></h1>
+<p>TBD</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="sorcerer"><a class="header" href="#sorcerer">Sorcerer</a></h1>
+<p>TBD</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="allignment-1"><a class="header" href="#allignment-1">Allignment</a></h1>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="background-1"><a class="header" href="#background-1">Background</a></h1>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+        <script>
+        window.addEventListener('load', function() {
+            window.setTimeout(window.print, 100);
+        });
+        </script>
+
+    </div>
+    </body>
+</html>
