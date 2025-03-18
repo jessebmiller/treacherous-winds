@@ -28,17 +28,12 @@ When you **attack from obscurity** ask:
 Roll 1d6 for each 'yes' and choose 1 for each hit:
 
 - Inflict any possible harm
-- Impress, frighten, or dismay them
-- Pin them down
-- GM can't choose a specific complication
-- GM chooses one fewer complications
-
-GM chooses up to 7 - the roll's highest die complications:
-
-- Suffer harm
-- Put in a tough spot
-- Caught and recognized
-- A turn for the worse
+- Impress, frighten, or stun them
+- Incapasitate them
+- Avoid suffering harm
+- Avoid being put in a tough spot
+- Avoid being caught and recognized
+- Avoid a turn for the worse
 
 ## Roguish charm
 
