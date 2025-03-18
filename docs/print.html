@@ -216,8 +216,7 @@ Attribution 4.0 International (CC BY
 <ul>
 <li>Are you defending yourself or someone you love?</li>
 <li>Are you well rested and sober?</li>
-<li>Are you in control of yourself and not in a rage or driven by
-hubris?</li>
+<li>Are you of sound mind not driven by rage or hubris?</li>
 </ul>
 <p>Roll 1d6 for each yes and choose 1 for each hit.</p>
 <ul>
@@ -233,7 +232,7 @@ hubris?</li>
 the conversation turn to answering these questions. For every question
 you answer 'yes' to, add 1d6 to the roll. Moves are the primary source
 of the questions, but there may be other sources.
-<a href="./allignment.html">Allignment</a>, for instance, is another. Questions
+<a href="./allignment.html">Allignment</a>, for instance. Questions
 from other sources work the same way. If you answer them 'yes', add
 1d6 to your roll.</p>
 <p>[-- for an advanced fuckery like section --] Anyone at the table can
@@ -340,8 +339,7 @@ works where you're from.</p>
 <ul>
 <li>Are you defending yourself or someone you love?</li>
 <li>Are you well rested and sober?</li>
-<li>Are you in control of yourself and not in a rage or driven by
-hubris?</li>
+<li>Are you of sound mind not driven by rage or hubris?</li>
 </ul>
 <p>Roll 1d6 for each yes and choose 1 for each hit:</p>
 <ul>
@@ -582,6 +580,22 @@ comfortable.</p>
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 

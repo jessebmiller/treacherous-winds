@@ -159,8 +159,7 @@
 <ul>
 <li>Are you defending yourself or someone you love?</li>
 <li>Are you well rested and sober?</li>
-<li>Are you in control of yourself and not in a rage or driven by
-hubris?</li>
+<li>Are you of sound mind not driven by rage or hubris?</li>
 </ul>
 <p>Roll 1d6 for each yes and choose 1 for each hit:</p>
 <ul>
@@ -267,6 +266,22 @@ can apply to this roll.</p>
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 

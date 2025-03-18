@@ -14,8 +14,7 @@ When you **fight untrained** ask:
 
 * Are you defending yourself or someone you love?
 * Are you well rested and sober?
-* Are you in control of yourself and not in a rage or driven by
-  hubris?
+* Are you of sound mind not driven by rage or hubris?
 
 Roll 1d6 for each yes and choose 1 for each hit.
 
@@ -32,7 +31,7 @@ Most moves will instruct you to answer a few yes/no questions.  Let
 the conversation turn to answering these questions. For every question
 you answer 'yes' to, add 1d6 to the roll. Moves are the primary source
 of the questions, but there may be other sources.
-[Allignment](./allignment.md), for instance, is another. Questions
+[Allignment](./allignment.md), for instance. Questions
 from other sources work the same way. If you answer them 'yes', add
 1d6 to your roll.
 
