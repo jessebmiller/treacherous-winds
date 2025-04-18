@@ -37,7 +37,8 @@ Roll 1d6 for each 'yes' and choose 1 for each hit:
 
 ## Roguish charm
 
-When you **seduce, bluff, manipulate or lie** you always count as
+When you [**seduce, bluff, manipulate or
+lie**](/common-moves.html#manipulate-someone) you always count as
 having a positive reputation and they never need a reason to be
 comfortable.
 

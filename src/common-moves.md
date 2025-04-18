@@ -89,4 +89,18 @@ Choose 1 for each hit:
 * If they refuse, you increase your bond with them
 * They don't increase their bond with you
 
-(More TBD)
+## Act under pressure
+
+TBD: [-- Act under fire from Apocalypse World --]
+
+## Read a situation
+
+TBD: [-- from from Apocalypse World --]
+
+## Read a person
+
+TBD: [-- from from Apocalypse World --]
+
+## Channel magic untrained
+
+TBD: Very dangerous, like fight untrained.
