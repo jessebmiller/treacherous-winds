@@ -24,7 +24,7 @@ Roll 1d6 for each 'yes' and choose 1 for each hit:
 ## Practiced charm
 
 When you [**seduce, bluff, manipulate or
-lie**](/common-moves.html#manipulate-someone), they are always
+lie**](../common-moves.html#manipulate-someone), they are always
 comfortable.
 
 (More TBD)

@@ -41,7 +41,7 @@ those answers might be worth a die for the roll. When the GM grants a
 die, they are saying "yes this makes it more likely you'll do well
 here". This is a judgement call and different GMs might think
 differently about it. For instance "are you afraid?" might be worth a
-die when fighting for som GMs but not for others. Or it might depend
+die when fighting for some GMs but not for others. Or it might depend
 on the nature of the situation and the fear. When GMs grant a die for
 an ad hoc question, they should consider also if another outcome
 option is worth adding. For instance if someone says "Yes I'm afraid
@@ -60,21 +60,16 @@ hit. You can choose an outcome more than once if its clear how that
 affects the fiction. Some outcomes describe positive outcomes you are
 likely to want. Others describe avoiding outcomes you are likely to
 want to avoid. When you choose outcomes that describe positive things
-you might want, they happen in a way that's reasonable for the
-fictional situation. If you are **driven by instinct or emotion to
-fight** a trained knight in full plate armor while unarmed and
-untrained, maybe some small damage to the armor, or exaustion to your
-opponent might be the harm.
-
-Any unchosen options that describe avoiding some outcome amount to
-permission for the GM to inflict that outcome on you and the story.
+you might want, they happen. Any unchosen options that describe
+avoiding some outcome are invitations for the GM to inflict that
+outcome on you and the story.
 
 ## Principles and Agendas
 
 TBD but something like:
 
 * Play to find out what happens
-* Make the world fantastic, horrible, and wondrous
+* Make the world fantastic, horrific, and wondrous
 * See your characters grow and change as they discover the wonders and
   horrors of the world
 * Ask provocative questions and build on the answers

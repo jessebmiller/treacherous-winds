@@ -20,7 +20,7 @@ Roll 1d6 for each 'yes' and choose 1 for each hit:
 ## Expressive violence
 
 When you [**impose your will with the threat of
-violence**](/common-moves.md#intimidate-someone) you count as angry
+violence**](../common-moves.md#intimidate-someone) you count as angry
 and better equipped. They never need to know how you'll get to them to
 worry.
 

@@ -178,7 +178,7 @@ would work, by all means try it out and tell me about it.</p>
 Dragon's Boomtown
 Playtesting</a>
 article.</p>
-<p>Join the <a href="https://discord.gg/dAQG7bcA22">Treacherous Windsd Play Testing Discord
+<p>Join the <a href="https://discord.gg/dAQG7bcA22">Treacherous Winds Play Testing Discord
 server</a> if you want to get more
 involved, or just follow along. This server will only run as long as
 the game is in development. Once that's over everyone will be invited
@@ -229,22 +229,6 @@ Attribution 4.0 International (CC BY
 
         </div>
 
-        <!-- Livereload script (if served using the cli tool) -->
-        <script>
-            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
-            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
-            const socket = new WebSocket(wsAddress);
-            socket.onmessage = function (event) {
-                if (event.data === "reload") {
-                    socket.close();
-                    location.reload();
-                }
-            };
-
-            window.onbeforeunload = function() {
-                socket.close();
-            }
-        </script>
 
 
 

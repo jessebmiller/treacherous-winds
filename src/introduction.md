@@ -28,7 +28,7 @@ Dragon's Boomtown
 Playtesting](https://possumcreek.medium.com/boomtown-playtesting-0c6536ae48b0)
 article.
 
-Join the [Treacherous Windsd Play Testing Discord
+Join the [Treacherous Winds Play Testing Discord
 server](https://discord.gg/dAQG7bcA22) if you want to get more
 involved, or just follow along. This server will only run as long as
 the game is in development. Once that's over everyone will be invited
