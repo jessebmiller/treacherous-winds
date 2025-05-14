@@ -103,4 +103,25 @@ TBD: [-- from from Apocalypse World --]
 
 ## Channel magic untrained
 
-TBD: Very dangerous, like fight untrained.
+When you are desparate and have no option but to open yourself to what forces of magic might be here, ask:
+
+* Who is the person closest in mind?
+* What is the place closest in mind?
+* What emotions are feeding on all the people present?
+* What are you desparate for?
+
+Roll as many dice as you want. For each hit choose:
+
+* Get a taste of what you are desparate for
+  * Get some of what you are desparate for (must also choose the above)
+    * Get all of what you are desparate for (must also choose the above)
+* Avoid harming or helping (GM choice) the person closest in mind
+* Avoid destroying or enriching (GM choice) the place closest in mind
+* Avoid harming or helping (GM choice) the people present
+
+Count the number of 1s rolled:
+
+1. You are cold, weak, and nauseous until you can sleep for 10 hours
+2. You are unconcious for 24 hours, as well as the above.
+3. As above, but you also mutate permenantly (mutation table TBD).
+4. You either mutate so dramatically you lose humanity or die. Retire the character.
