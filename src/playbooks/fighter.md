@@ -6,7 +6,7 @@ When you **fight with martial expertise** ask:
 
 - Are you better equipped?
 - Are you ready for a fight?
-- Are you taking a defensive position?
+- Are you exploiting a specific oportunity or in a defensive position?
 
 Roll 1d6 for each 'yes' and choose 1 for each hit:
 
