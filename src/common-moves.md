@@ -15,66 +15,72 @@ Roll 1d6 for each yes and choose 1 for each hit:
 * Cause physical harm
 * Be taken seriously
 * Scramble away
-* Avoid physical harm
-* Aboid being put in a tough spot
-* Avoid a turn for the worse
+
+Risk ideas:
+- Harm
+- A grudge against you
+- A bad reputation
 
 ## Manipulate someone
 
 When you **seduce, bluff, manipulate, or lie** to an NPC, tell them
-what you want them to do. Be ready to give them some payment, a reason
-or concrete assurance then ask:
+what you want them to do then ask:
 
-* Is the request doable, safe, and sane?
-* Does no authority disaprove?
-* Do you have a positive reputation with them or a group they're in?
+- Is the request doable, safe, and sane?
+- Does no authority disaprove?
+- Do you have a positive reputation with them or a group they're in?
 
 Roll 1d6 for each yes an dchoose 1 for each hit:
 
-* They go along with you as long as they're comfortable
-* They don't need concrete assurance to be comfortable
-* They don't need a reason to be comfortable
-* They don't need payment to be comfortable
-* They don't realize you're manipulating them
-* They don't turn the tables
-* Things don't take a turn for the worse
+- They are inclined to go along with you
+- Avoid a risk
+
+Risk ideas:
+- They expect payment, reciprocity, or debt
+- Add a Beat: Will they discover they've been manipulated and what
+  revenge will they seek?
+- Add a Bond: They despise you (or love you) and look to insert
+  themself into your affairs
 
 ## Intimidate someone
 
-When you **Impose your will with the threat of violence** be ready to
-tell them how you'll know if they defy you and how you'll get to them
-if they do and ask:
+When you **Impose your will with the threat of violence** tell them
+what you want them to do then ask:
 
-* Can they see that you are better equipped than them?
-* Are they on their own or backed by fewer than you?
-* Are you angry at, frustrated with, or cornered by them?
-* Is your demand acceptable to their allignment?
-* Do they lack levorage against you?
+- Can they see that you are better equipped or that you outnumber them?
+- Are you angry at, frustrated with, or cornered by them?
+- Do they lack recourse or levorage against you?
 
 Roll 1d6 for each 'yes' and choose 1 for each hit:
 
-* They go along with you if they worry you'll follow through
-* They don't need to know how you'll know to worry
-* They don't need to know how you'll get to them to worry
-* They don't gain a rank of a bond with you and you don't lose a rank
-  of a bond with them
-* You don't gain a reputation in their circles
+- They go along with you
+- Avoid a risk
+
+Risk ideas:
+- Add a Beat: How will they take their revenge for being threatened?
+- They find a way to undermine your larger goal while going along
+- Gain a bad reputation
 
 ## Invoke your station
 
 When you **Invoke your position, rank, or station** to make a request
 or demand, ask:
 
-* Do they recognise the symbols of your station?
-* Do they see others defering to you?
-* Do they fall under your official jurisdiction?
+- Do they recognise the symbols of your station?
+- Do they see others defering to you?
+- Do they fall under your official jurisdiction?
 
 Roll 1d6 for each 'yes' and *THEY* either heed your words or *THEY*
 choose 1 for each hit:
 
-* Accept the punnishments your station allows
-* Accept a reputation for insolence
-* Accept an economic setback (give valuables, lose a job, etc.)
+- Accept the punnishments your station allows
+- Accept a reputation for insolence
+- Accept an economic setback (give valuables, lose a job, etc.)
+
+Risk ideas:
+- The institution that grants you your station demands something of you
+- You lose your station
+- Gain a bad reputation
 
 ## Control a PC
 
@@ -85,13 +91,19 @@ can apply to this roll.
 
 Choose 1 for each hit:
 
-* If they go along, they mark XP
-* If they refuse, you increase your bond with them
-* They don't increase their bond with you
+- If they go along, they mark XP
+- If they refuse, you increase your bond with them
 
-## Act under pressure
+Risks: Have a conversation between players about how each character will
+feel about this and make any changes needed to keep the game satisfying
+for everyone
 
-TBD: [-- Act under fire from Apocalypse World --]
+## Take a risk
+
+When you **take a risk** discuss with the GM what the risks are then ask
+the GM how many dice to roll.
+
+Avoid a risk for each hit.
 
 ## Read a situation
 
@@ -103,25 +115,62 @@ TBD: [-- from from Apocalypse World --]
 
 ## Channel magic untrained
 
-When you are desparate and have no option but to open yourself to what forces of magic might be here, ask:
+When you are desparate and have no option but to open yourself to what forces
+of magic might be here, ask:
 
-* Who is the person closest in mind?
-* What is the place closest in mind?
-* What emotions are feeding on all the people present?
-* What are you desparate for?
+- Who is the person closest in mind?
+- What is the place closest in mind?
+- What emotions are feeding on all the people present?
+- What do you want to happen?
 
 Roll as many dice as you want. For each hit choose:
 
-* Get a taste of what you are desparate for
-  * Get some of what you are desparate for (must also choose the above)
-    * Get all of what you are desparate for (must also choose the above)
-* Avoid harming or helping (GM choice) the person closest in mind
-* Avoid destroying or enriching (GM choice) the place closest in mind
-* Avoid harming or helping (GM choice) the people present
+- What you want comes to pass
+- Avoid harming or helping (GM choice) the person closest in mind
+- Avoid destroying or enriching (GM choice) the place closest in mind
+- Avoid harming or helping (GM choice) the people present
 
-Count the number of 1s rolled:
 
-1. You are cold, weak, and nauseous until you can sleep for 10 hours
-2. You are unconcious for 24 hours, as well as the above.
-3. As above, but you also mutate permenantly (mutation table TBD).
-4. You either mutate so dramatically you lose humanity or die. Retire the character.
+Total the highest 3 dice:
+
+|total|outcome|
+|-----|-------|
+|3-7| You are cold, weak, and nauseous until you can sleep for 10 hours.|
+|8-10| As above but too weak to move|
+|11-12| You enter a coma until you can recover in a calm stable place for 8 hours|
+|13-14| As 11-12, but you wake up cold, weak, and nauseous for 24 more hours|
+|15| As 13-14, but you also develop a permenant troublesome mutation|
+|16| As 13-14, but you also develop two permenant troublesome mutations|
+|17| As 13-14, but you also develop a permenant extreme mutation|
+|18| You either mutate so dramatically you lose humanity or die. Retire the character|
+
+Troublesome Mutations (2d6):
+|2d6|mutation|
+|-|-|
+|2| Candle and firelight dims slightly in your presense|
+|3||
+|4||
+|5||
+|6|All your hair turns a wiry stark white|
+|7|Your skin takes on a mottled sickly appearance|
+|8||
+|9||
+|10||
+|11||
+|12| Your hands and feet age 55 years|
+
+Extreme Mutations (2d6):
+|2d6|mutation|
+|-|-|
+|2| Your legs wither to the bone. You require assistance from either an attendant or a device to move around|
+|3||
+|4||
+|5||
+|6| A milky dull eye emerges from your non-dominant forearm|
+|7| A milky dull eye emerges from your dominant forearm|
+|8||
+|9||
+|10||
+|11||
+|12| Every hair follicle on your body sprouts a tentacle|
+

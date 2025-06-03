@@ -18,12 +18,25 @@ When you **fight untrained** ask:
 
 Roll 1d6 for each yes and choose 1 for each hit.
 
-* Impress, frighten, or dismay them
-* Cause physical harm
-* Pin them down
-* Avoid physical harm
-* Aboid being put in a tough spot
-* Avoid a turn for the worse
+- Impress, frighten, or dismay them
+- Cause physical harm
+- Pin them down
+- Avoid a Risk
+
+Common Risks:
+- harm
+- a grudge against you
+- a bad reputation
+
+### First understand the Risks
+
+When a player makes a move, first understand the stakes. Make sure
+everyone at the table knows what the character specifically is doing to
+make the move and what specific Risks are at stake. The Risks are
+a list of things that *will happen* unless the player chooses to avoid
+them during their roll (see Rolling with questions below). Talk it
+through until players and GM both understand and agree what the
+character is doing and what the Risks are.
 
 ### Rolling with questions
 

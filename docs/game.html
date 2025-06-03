@@ -169,10 +169,22 @@
 <li>Impress, frighten, or dismay them</li>
 <li>Cause physical harm</li>
 <li>Pin them down</li>
-<li>Avoid physical harm</li>
-<li>Aboid being put in a tough spot</li>
-<li>Avoid a turn for the worse</li>
+<li>Avoid a Risk</li>
 </ul>
+<p>Common Risks:</p>
+<ul>
+<li>harm</li>
+<li>a grudge against you</li>
+<li>a bad reputation</li>
+</ul>
+<h3 id="first-understand-the-risks"><a class="header" href="#first-understand-the-risks">First understand the Risks</a></h3>
+<p>When a player makes a move, first understand the stakes. Make sure
+everyone at the table knows what the character specifically is doing to
+make the move and what specific Risks are at stake. The Risks are
+a list of things that <em>will happen</em> unless the player chooses to avoid
+them during their roll (see Rolling with questions below). Talk it
+through until players and GM both understand and agree what the
+character is doing and what the Risks are.</p>
 <h3 id="rolling-with-questions"><a class="header" href="#rolling-with-questions">Rolling with questions</a></h3>
 <p>Most moves will instruct you to answer a few yes/no questions.  Let
 the conversation turn to answering these questions. For every question
@@ -246,6 +258,22 @@ horrors of the world</li>
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 

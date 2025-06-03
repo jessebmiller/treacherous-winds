@@ -13,15 +13,19 @@ Roll 1d6 for each 'yes' and choose 1 for each hit:
 - Inflict precise or devistating physical harm
 - Impress, frighten, or dismay them
 - Pin them down
-- Avoid suffering harm
-- Avoid a tough spot
-- Avoid a turn for the worse
+
+Risk ideas:
+- Suffer harm
+- Get into a tough spot
+- Get a bad reputation
+- Make an enemy
 
 ## Expressive violence
 
-When you [**impose your will with the threat of
-violence**](../common-moves.md#intimidate-someone) you count as angry
-and better equipped. They never need to know how you'll get to them to
-worry.
+When you intimidate someone and [**impose your will with the threat of
+violence**](../common-moves.md#intimidate-someone) Roll with the extra questions.
+
+- Have they seen you fight?
+- Do you have a reputation here for winning fights?
 
 (more TBD)

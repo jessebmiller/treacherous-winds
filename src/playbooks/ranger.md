@@ -1,6 +1,6 @@
 # Ranger
 
-## Of the land
+## Warrior of the land
 
 When you **fight using the terrain for advantage** ask:
 
@@ -13,8 +13,19 @@ Roll 1d6 for each 'yes' and choose 1 for each hit:
 - Inflict precise or incidious harm
 - Impress, frighten, or disorient them
 - Hold them at bay
-- Avoid suffering harm
-- Avoid a tough spot
-- Avoid a turn for the worse
 
-(More TBD)
+## Skilled Tracker
+
+When you **track a mark or hunt prey** ask:
+
+- Have they been here in the last day?
+- Are they unprepared to hide their tracks?
+- Is the weather cooperating?
+
+Roll 1d6 for each 'yes' and choose 1 for each hit:
+
+- you find them
+- you stay hidden
+- you don't travel far out of your way
+
+

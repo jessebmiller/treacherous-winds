@@ -158,22 +158,28 @@
 <ul>
 <li>Are you better equipped?</li>
 <li>Are you ready for a fight?</li>
-<li>Are you taking a defensive position?</li>
+<li>Are you exploiting a specific oportunity or in a defensive position?</li>
 </ul>
 <p>Roll 1d6 for each 'yes' and choose 1 for each hit:</p>
 <ul>
 <li>Inflict precise or devistating physical harm</li>
 <li>Impress, frighten, or dismay them</li>
 <li>Pin them down</li>
-<li>Avoid suffering harm</li>
-<li>Avoid a tough spot</li>
-<li>Avoid a turn for the worse</li>
+</ul>
+<p>Risk ideas:</p>
+<ul>
+<li>Suffer harm</li>
+<li>Get into a tough spot</li>
+<li>Get a bad reputation</li>
+<li>Make an enemy</li>
 </ul>
 <h2 id="expressive-violence"><a class="header" href="#expressive-violence">Expressive violence</a></h2>
-<p>When you <a href="../common-moves.html#intimidate-someone"><strong>impose your will with the threat of
-violence</strong></a> you count as angry
-and better equipped. They never need to know how you'll get to them to
-worry.</p>
+<p>When you intimidate someone and <a href="../common-moves.html#intimidate-someone"><strong>impose your will with the threat of
+violence</strong></a> Roll with the extra questions.</p>
+<ul>
+<li>Have they seen you fight?</li>
+<li>Do you have a reputation here for winning fights?</li>
+</ul>
 <p>(more TBD)</p>
 
                     </main>
@@ -205,6 +211,22 @@ worry.</p>
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 

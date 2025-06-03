@@ -168,15 +168,17 @@ audience can easily afford.</p>
 <li>+1 die when invoking this station with them until they disperse</li>
 <li>Gain a bond with anyone in the crowd. What do you bond over?</li>
 <li>Fortify or shift a culture</li>
-<li>Earn extra coin.</li>
-<li>Avoid a threat or a demand for a favor</li>
-<li>Avoid an unwanted reputation</li>
+<li>Earn extra coin</li>
+<li>Avoid a risk</li>
+</ul>
+<p>Risk ideas:</p>
+<ul>
+<li>Someone makes a threat or a demands a favor</li>
+<li>Gain an unwanted reputation</li>
 </ul>
 <h2 id="practiced-charm"><a class="header" href="#practiced-charm">Practiced charm</a></h2>
 <p>When you <a href="../common-moves.html#manipulate-someone"><strong>seduce, bluff, manipulate or
-lie</strong></a>, they are always
-comfortable.</p>
-<p>(More TBD)</p>
+lie</strong></a>, roll with +1 die.</p>
 
                     </main>
 
@@ -207,6 +209,22 @@ comfortable.</p>
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 

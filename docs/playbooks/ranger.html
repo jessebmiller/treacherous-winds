@@ -153,7 +153,7 @@
                 <div id="content" class="content">
                     <main>
                         <h1 id="ranger"><a class="header" href="#ranger">Ranger</a></h1>
-<h2 id="of-the-land"><a class="header" href="#of-the-land">Of the land</a></h2>
+<h2 id="warrior-of-the-land"><a class="header" href="#warrior-of-the-land">Warrior of the land</a></h2>
 <p>When you <strong>fight using the terrain for advantage</strong> ask:</p>
 <ul>
 <li>Have you scouted the area?</li>
@@ -165,11 +165,20 @@
 <li>Inflict precise or incidious harm</li>
 <li>Impress, frighten, or disorient them</li>
 <li>Hold them at bay</li>
-<li>Avoid suffering harm</li>
-<li>Avoid a tough spot</li>
-<li>Avoid a turn for the worse</li>
 </ul>
-<p>(More TBD)</p>
+<h2 id="skilled-tracker"><a class="header" href="#skilled-tracker">Skilled Tracker</a></h2>
+<p>When you <strong>track a mark or hunt prey</strong> ask:</p>
+<ul>
+<li>Have they been here in the last day?</li>
+<li>Are they unprepared to hide their tracks?</li>
+<li>Is the weather cooperating?</li>
+</ul>
+<p>Roll 1d6 for each 'yes' and choose 1 for each hit:</p>
+<ul>
+<li>you find them</li>
+<li>you stay hidden</li>
+<li>you don't travel far out of your way</li>
+</ul>
 
                     </main>
 
@@ -200,6 +209,22 @@
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 
