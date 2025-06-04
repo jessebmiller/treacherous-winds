@@ -105,31 +105,55 @@ the GM how many dice to roll.
 
 Avoid a risk for each hit.
 
-## Read a situation
+## Comprehend
 
-TBD: [-- from from Apocalypse World --]
+When you closely study or make a read on a situation or person. Or when you, as
+a player, want your character to notice something about a situation or person
+ask:
 
-## Read a person
+- Has your background or past experience prepared you to understand this
+  situation or person?
+- Are you unencombered by distraction, tunnelvision, or hurry?
+- Do you fear the danger of this situation or person?
 
-TBD: [-- from from Apocalypse World --]
+Ask the GM 1 question for each hit:
+
+- What happened here recently?
+- What is about to happen?
+- What should I be on the lookout for?
+- What here is useful or valuable to me?
+- Who is really in controll here?
+- What's being avoided here?
+- What here is not as it appears?
+- Who is being honest and who is not?
+- What is someone really feeling?
+- What does someone wish I'd do?
+- What would it take to get anyone, or some specific someone to ___?
 
 ## Channel magic untrained
+
+The risks for channeling magic untrained do not need to be laid out ahead of
+time. The answers to the questions are fuel for the GM to riff on magical side
+and unintended effects.
 
 When you are desparate and have no option but to open yourself to what forces
 of magic might be here, ask:
 
+- What do you want to happen?
 - Who is the person closest in mind?
 - What is the place closest in mind?
 - What emotions are feeding on all the people present?
-- What do you want to happen?
 
 Roll as many dice as you want. For each hit choose:
 
-- What you want comes to pass
-- Avoid harming or helping (GM choice) the person closest in mind
-- Avoid destroying or enriching (GM choice) the place closest in mind
-- Avoid harming or helping (GM choice) the people present
+- Get what you want
+- Avoid a risk
 
+GM chooses 3 minus the number of avoided risks
+- Harming or helping (GM choice) the person closest in mind
+- Destroying or enriching (GM choice) the place closest in mind
+- Harming or helping (GM choice) the people present
+- Anything the GM can fathom
 
 Total the highest 3 dice:
 
@@ -147,7 +171,7 @@ Total the highest 3 dice:
 Troublesome Mutations (2d6):
 |2d6|mutation|
 |-|-|
-|2| Candle and firelight dims slightly in your presense|
+|2|Candle and firelight dims slightly in your presense|
 |3||
 |4||
 |5||
@@ -157,20 +181,20 @@ Troublesome Mutations (2d6):
 |9||
 |10||
 |11||
-|12| Your hands and feet age 55 years|
+|12|Your hands and feet age 55 years|
 
 Extreme Mutations (2d6):
 |2d6|mutation|
 |-|-|
-|2| Your legs wither to the bone. You require assistance from either an attendant or a device to move around|
+|2|Your legs wither to the bone. You require assistance from either an attendant or a device to move around|
 |3||
 |4||
 |5||
-|6| A milky dull eye emerges from your non-dominant forearm|
-|7| A milky dull eye emerges from your dominant forearm|
+|6|A milky dull eye emerges from your non-dominant forearm|
+|7|A milky dull eye emerges from your dominant forearm|
 |8||
 |9||
 |10||
-|11||
-|12| Every hair follicle on your body sprouts a tentacle|
+|11|A mouth opens up on your neck below your jaw. It tends to gurgle, grind its teeth, and mutter in a forgotten language|
+|12|Every hair follicle on your body sprouts a tentacle|
 
