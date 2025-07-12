@@ -1,3 +1,9 @@
+# priorities
+
+1. first session procedure
+2. magic systems
+3. arcs
+
 [ ] Write design goals into the SRD
 
 # Magic
