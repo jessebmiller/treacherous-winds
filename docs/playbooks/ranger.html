@@ -179,6 +179,12 @@
 <li>you stay hidden</li>
 <li>you don't travel far out of your way</li>
 </ul>
+<h2 id="introspective-observation"><a class="header" href="#introspective-observation">Introspective observation</a></h2>
+<p>When you <a href="../common-moves.html#comprehend"><strong>comprehend</strong></a> you may spend a hit on:</p>
+<ul>
+<li>Who here has trouble sitting with their own thoughts?</li>
+<li>who here is comfortable with the brutality of the wild?</li>
+</ul>
 
                     </main>
 
@@ -209,6 +215,22 @@
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 

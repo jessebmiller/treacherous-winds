@@ -28,4 +28,10 @@ Roll 1d6 for each 'yes' and choose 1 for each hit:
 - you stay hidden
 - you don't travel far out of your way
 
+## Introspective observation
+
+When you [**comprehend**](../common-moves.md#comprehend) you may spend a hit on:
+
+- Who here has trouble sitting with their own thoughts?
+- who here is comfortable with the brutality of the wild?
 

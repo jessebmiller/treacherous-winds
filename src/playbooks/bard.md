@@ -26,6 +26,12 @@ Risk ideas:
 
 ## Practiced charm
 
-When you [**seduce, bluff, manipulate or
-lie**](../common-moves.html#manipulate-someone), roll with +1 die.
+When you [**manipulate someone**](../common-moves.html#manipulate-someone), roll with +1 die.
 
+## Social expertise
+
+When you [**comprehend**](../common-moves.html#comprehend), you may spend hits on the following.
+
+* Who here has juicy gossip?
+* Who is in dange of falling in the social order
+* who has an opportunity to rise in the social order?

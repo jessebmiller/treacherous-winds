@@ -1,11 +1,12 @@
 # Sorcerer
 
-# Intuative Casting
+## Intuative Casting
 
 You don't need to be desparate to channel magic untrained.
 
-# Magic sensitivity
+## Magic sensitivity
 
-You can feel the presense and use of magic as a strange
-and unsettling sort of warmth.
+When you (**Comprehend**)[../common-moves.md#comprehend] you may spend a hit on:
 
+- Who here is under magical effects?
+- Who here has channeled magic and how recently?

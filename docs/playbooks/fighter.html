@@ -157,7 +157,7 @@
 <p>When you <strong>fight with martial expertise</strong> ask:</p>
 <ul>
 <li>Are you better equipped?</li>
-<li>Are you ready for a fight?</li>
+<li>Did you see the fight coming?</li>
 <li>Are you exploiting a specific oportunity or in a defensive position?</li>
 </ul>
 <p>Roll 1d6 for each 'yes' and choose 1 for each hit:</p>
@@ -178,9 +178,15 @@
 violence</strong></a> Roll with the extra questions.</p>
 <ul>
 <li>Have they seen you fight?</li>
-<li>Do you have a reputation here for winning fights?</li>
+<li>Do you have a reputation with them for brutality?</li>
 </ul>
-<p>(more TBD)</p>
+<h2 id="preparation-sees-preparation"><a class="header" href="#preparation-sees-preparation">Preparation sees preparation</a></h2>
+<p>When you <a href="../common-moves.html#comprehend"><strong>comprehend</strong></a> you may spend a hit to ask</p>
+<ul>
+<li>Who here is prepared to fight?</li>
+<li>Who here is affraid of a fight?</li>
+<li>How eager is someone to fight?</li>
+</ul>
 
                     </main>
 
@@ -211,6 +217,22 @@ violence</strong></a> Roll with the extra questions.</p>
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 

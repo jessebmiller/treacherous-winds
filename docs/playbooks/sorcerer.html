@@ -153,11 +153,14 @@
                 <div id="content" class="content">
                     <main>
                         <h1 id="sorcerer"><a class="header" href="#sorcerer">Sorcerer</a></h1>
-<h1 id="intuative-casting"><a class="header" href="#intuative-casting">Intuative Casting</a></h1>
+<h2 id="intuative-casting"><a class="header" href="#intuative-casting">Intuative Casting</a></h2>
 <p>You don't need to be desparate to channel magic untrained.</p>
-<h1 id="magic-sensitivity"><a class="header" href="#magic-sensitivity">Magic sensitivity</a></h1>
-<p>You can feel the presense and use of magic as a strange
-and unsettling sort of warmth.</p>
+<h2 id="magic-sensitivity"><a class="header" href="#magic-sensitivity">Magic sensitivity</a></h2>
+<p>When you (<strong>Comprehend</strong>)[../common-moves.md#comprehend] you may spend a hit on:</p>
+<ul>
+<li>Who here is under magical effects?</li>
+<li>Who here has channeled magic and how recently?</li>
+</ul>
 
                     </main>
 
@@ -188,6 +191,22 @@ and unsettling sort of warmth.</p>
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 

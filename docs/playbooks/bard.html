@@ -177,8 +177,14 @@ audience can easily afford.</p>
 <li>Gain an unwanted reputation</li>
 </ul>
 <h2 id="practiced-charm"><a class="header" href="#practiced-charm">Practiced charm</a></h2>
-<p>When you <a href="../common-moves.html#manipulate-someone"><strong>seduce, bluff, manipulate or
-lie</strong></a>, roll with +1 die.</p>
+<p>When you <a href="../common-moves.html#manipulate-someone"><strong>manipulate someone</strong></a>, roll with +1 die.</p>
+<h2 id="social-expertise"><a class="header" href="#social-expertise">Social expertise</a></h2>
+<p>When you <a href="../common-moves.html#comprehend"><strong>comprehend</strong></a>, you may spend hits on the following.</p>
+<ul>
+<li>Who here has juicy gossip?</li>
+<li>Who is in dange of falling in the social order</li>
+<li>who has an opportunity to rise in the social order?</li>
+</ul>
 
                     </main>
 
@@ -209,6 +215,22 @@ lie</strong></a>, roll with +1 die.</p>
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 

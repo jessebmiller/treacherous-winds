@@ -252,7 +252,7 @@ for everyone</p>
 the GM how many dice to roll.</p>
 <p>Avoid a risk for each hit.</p>
 <h2 id="comprehend"><a class="header" href="#comprehend">Comprehend</a></h2>
-<p>When you closely study or make a read on a situation or person. Or when you, as
+<p>When you closely study or read or situation or person. Or when you, as
 a player, want your character to notice something about a situation or person
 ask:</p>
 <ul>
@@ -370,6 +370,22 @@ of magic might be here, ask:</p>
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 

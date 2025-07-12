@@ -181,17 +181,22 @@
 <li>Inflict any possible harm</li>
 <li>Impress, frighten, or stun them</li>
 <li>Incapasitate them</li>
-<li>Avoid suffering harm</li>
-<li>Avoid being put in a tough spot</li>
-<li>Avoid being caught and recognized</li>
-<li>Avoid a turn for the worse</li>
+</ul>
+<p>Risk ideas:</p>
+<ul>
+<li>Suffer harm</li>
+<li>Get caught and recognized</li>
 </ul>
 <h2 id="roguish-charm"><a class="header" href="#roguish-charm">Roguish charm</a></h2>
 <p>When you <a href="../common-moves.html#manipulate-someone"><strong>seduce, bluff, manipulate or
-lie</strong></a> you always count as
-having a positive reputation and they never need a reason to be
-comfortable.</p>
-<p>(More TBD)</p>
+lie</strong></a> roll with +1 die.</p>
+<h2 id="mark"><a class="header" href="#mark">Mark</a></h2>
+<p>When you (<strong>Comprehend</strong>)[../common-moves.md#comprehend] you may spend a hit on:</p>
+<ul>
+<li>Who here is hiding wealth?</li>
+<li>Who here keeps valuable secrets?</li>
+<li>Who here is aware of me?</li>
+</ul>
 
                     </main>
 
@@ -222,6 +227,22 @@ comfortable.</p>
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 

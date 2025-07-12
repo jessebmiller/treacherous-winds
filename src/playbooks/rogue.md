@@ -30,16 +30,20 @@ Roll 1d6 for each 'yes' and choose 1 for each hit:
 - Inflict any possible harm
 - Impress, frighten, or stun them
 - Incapasitate them
-- Avoid suffering harm
-- Avoid being put in a tough spot
-- Avoid being caught and recognized
-- Avoid a turn for the worse
+
+Risk ideas:
+- Suffer harm
+- Get caught and recognized
 
 ## Roguish charm
 
 When you [**seduce, bluff, manipulate or
-lie**](../common-moves.html#manipulate-someone) you always count as
-having a positive reputation and they never need a reason to be
-comfortable.
+lie**](../common-moves.html#manipulate-someone) roll with +1 die.
 
-(More TBD)
+## Mark
+
+When you (**Comprehend**)[../common-moves.md#comprehend] you may spend a hit on:
+
+- Who here is hiding wealth?
+- Who here keeps valuable secrets?
+- Who here is aware of me?

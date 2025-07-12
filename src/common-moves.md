@@ -107,7 +107,7 @@ Avoid a risk for each hit.
 
 ## Comprehend
 
-When you closely study or make a read on a situation or person. Or when you, as
+When you closely study or read or situation or person. Or when you, as
 a player, want your character to notice something about a situation or person
 ask:
 
