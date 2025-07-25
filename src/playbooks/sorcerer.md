@@ -2,16 +2,26 @@
 
 Start with only the common moves. Gain one each time you complete each of the first four acts of your arc.
 
+**Determining level of arcane complexity:** The arcane moves below use the level of arcane complexity to determine how difficult and risky it is.
+
+To determine the complexity, start with the number of primes and praxes involved then:
+* add 1-3 for extreme scales (small, tiny, micro, big, huge, enormous)
+* add 1-3 for area of effect (room, city, continent)
+* add 1-3 for extreme precision (use your judgement)
+* whatever other complexity you think is worth a level
+
 ## Arcane Comprehension
 
-When you **push your conciousness into the temporal primes and praxes**:
+When you **push your conciousness into the temporal primes and praxes** to comprehend their secrets:
 
-Roll as many dice as you want and ask the GM 1 question for each hit:
+Ask the GM what you want to find out.
 
-* What is a powerful temporal prime or praxis here? (Sulfur, Mercury, or Salt. Vibration, Force, Charge, Spin, Heat, or Radiance)
-* What is an effect the temporal primes and praxes are having here?
+Determine the level of arcane complexity. The GM decides which, if any, are risks and what those risks are.
+The remaining levels of complexity are the number of hits needed for a full clear answer.
 
-You may ask each more than once. The first will give you the dominant prime, praxis, or effect. Subsequent questions will give subtler primes, praxes or effects.
+Roll as many dice as you want.
+
+You may use hits to avoid risks. The rest determine how much you learn. If there are hits left but fewer than you need for a full clear answer, the GM will give you a partial and obfuscated true answer.
 
 Check for arcane fallout.
 
@@ -19,7 +29,7 @@ Check for arcane fallout.
 
 When you **manipulate temporal primes and praxes** describe the set of effects you want to create and how you'll manipulate the primes and praxes here to do it. Describe the outcome or outcomes you want those effects to have.
 
-For each prime or praxis manipulated, ask the GM and table what is the risk of pushing this too far?
+For each prime or praxis manipulated
 
 Roll as many dice as you want. For each hit choose:
 
@@ -31,6 +41,14 @@ Check for arcane fallout.
 ## Arcane Production
 
 When you **maniulate temporal primes and praxes** you may also add any primes and praxes you like to the area for your effects.
+
+## Arcane Specializationin
+
+You may gain this move more than once. Each time you gain this move choose a prime, a praxis, large scale, small scale, area of effect, or precision. The complexity of arcane moves involving your choice is one level less complex.
+
+## Arcane Resiliency
+
+You may gain this move more than once. You may treat any die as a 5 when checking arcane fallout.
 
 ## Arcane fallout
 
@@ -47,8 +65,7 @@ When you **check for arcane fallout** sum up the highest 3 dice from your roll a
 |17| As 13-14, but you also develop a permenant extreme mutation|
 |18| You mutate so dramatically you lose humanity or die. Retire the character|
 
-Troublesome Mutations (2d6):
-|2d6|mutation|
+|2d6|Troublesome Mutation|
 |-|-|
 |2|Candle and firelight dims slightly in your presense|
 |3|Your eyes tear up at the slightest provocation|
@@ -62,24 +79,17 @@ Troublesome Mutations (2d6):
 |11|You have serious trouble with balance|
 |12|Your hands and feet age 55 years|
 
-Extreme Mutations (2d6):
-|2d6|mutation|
+|2d6|Extreme Mutation|
 |-|-|
 |2|Your legs wither to the bone. You require assistance from either an attendant or a device to move around|
-|3|7 eyes of 7 different animals emerge crowding your forehead|
+|3|7 eyes of 7 beasts emerge crowding your forehead|
 |4|You grow a crown of gnarled horn|
 |5|Your saliva turns to murcury on contact with air|
 |6|A milky dull eye emerges from your non-dominant forearm|
 |7|A milky dull eye emerges from your dominant forearm|
 |8|You float and drift when sleeping|
 |9|You are not illuminated by sunlight|
-|10||
+|10|You and what you carry are neutrally buoyant in all fluids and gasses|
 |11|A mouth opens up on your neck below your jaw. It tends to gurgle, grind its teeth, and mutter in a forgotten language|
 |12|Every hair follicle on your body sprouts a tentacle|
 
-## Magic sensitivity
-
-When you [**Comprehend**](../common-moves.md#comprehend) you may spend a hit on:
-
-- Who here is under magical effects?
-- Who here has channeled magic and how recently?

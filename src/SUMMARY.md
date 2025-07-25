@@ -5,7 +5,6 @@
 - [Character Creation](./characters.md)
 - [Setting the Setting](./setting-the-setting.md)
 - [Common Moves](./common-moves.md)
-- [Arcs](./arcs.md)
 - [Playbooks](./playbooks.md)
   - [Fighter](./playbooks/fighter.md)
   - [Rogue](./playbooks/rogue.md)
@@ -15,5 +14,8 @@
   - [Sorcerer](./playbooks/sorcerer.md)
 - [Allignment](./allignment.md)
 - [Background](./background.md)
-- [Religion (TBD)](./religion.md)
+- [Magic](./magic.md)
+  - [Arcane](./magic/arcane.md)
+  - [Divine](./magic/divine.md)
+  - [Natural](./magic/natural.md)
 

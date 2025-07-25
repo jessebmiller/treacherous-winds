@@ -86,6 +86,7 @@ TBD but something like:
 * See your characters grow and change as they discover the wonders and
   horrors of the world
 * Ask provocative questions and build on the answers
+* Cultivate curiosity about characters arc questions
 * Name everyone, give everyone humanity, villainy, or both
 
 

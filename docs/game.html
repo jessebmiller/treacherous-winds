@@ -226,6 +226,7 @@ outcome on you and the story.</p>
 <li>See your characters grow and change as they discover the wonders and
 horrors of the world</li>
 <li>Ask provocative questions and build on the answers</li>
+<li>Cultivate curiosity about characters arc questions</li>
 <li>Name everyone, give everyone humanity, villainy, or both</li>
 </ul>
 
@@ -258,6 +259,22 @@ horrors of the world</li>
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 
