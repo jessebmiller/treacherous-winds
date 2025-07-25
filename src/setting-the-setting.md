@@ -1,6 +1,16 @@
 # Setting the Setting
 
-Before play during the first session create a small mundane corner of a big fantastic world for the PCs to be from. Work with them to find something or some combination of things that works for the table. Feel free to use settings from other games or books as you like.
+## World Anchors
+
+The full worldbuilding process is going to take experimentation and testing.
+I'm starting with [anti canon worldbuilding](https://www.wizardthieffighter.com/2019/anti-canon-worlds-and-the-uvg/)
+and [adding some congruency](https://www.mindstormpress.com/adding-congruency-to-anti-canon-worldbuilding) to that.
+
+Read those articles then come back here. For Treacherous Winds we're not going to create all our world anchoers ahead of time, we're going to discover most of them during play, but we'll create our first now.
+
+Create a small corner of the larger world as your first anchor. This is the home town where all characters in a "youth" path live.
+
+(Designers note: I'm not sure how well this small corner home town will work as a world anchor. Is the Two Rivers a world anchor in The Wheel of Time? Is the caravan in The Name of The Wind a world anchor?)
 
 Choose from the following list or make up your own
 
@@ -24,5 +34,7 @@ Then, with the players, answer the following questions to establish the setting.
 * How does this place get news from the larger world and how is that news exaggerated or warped? What is some of the latest news making its way through this place?
 * What makes the culture here unique?
 
+Create your second world anchor by answering
+* What value or ideal do the people here hold that is worthy of the wider world?
 
 Begin play by following the threads that lead from your answers.

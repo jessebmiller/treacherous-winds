@@ -5,7 +5,6 @@ Character creation is very simple. Choose an
 [background](./background.md). Then choose pronouns, a name, and breifly
 describe your look.
 
-
 You can look ahead to see what each choice offers or you can choose
 whatever catches your eye from below. Write it down as follows.
 
@@ -19,19 +18,18 @@ a baker but no more" or whatever combination you want.
 
 ## Allignment
 
-Choose one side of one of the following fundamental oppositions or "Agnostic"
+Choose one side of one of the following fundamental oppositions
 
 * Lawful vs. Chaotic
 * Divine vs. Humane
 * Noble vs. Humble
-* Agnostic
 
 <!-- * Chaste vs. Depraved -->
 <!-- * Civil vs. Wild -->
 
 ## Playbooks
 
-Choose one playbook. Multiple players can choose the same playbook.
+Choose one playbook. Multiple players can choose the same playbook. Each playbook has options and instructions for introducing [world anchors](./setting-the-setting.md#world-anchors).
 
 * Fighter
 * Rogue
@@ -43,7 +41,7 @@ Choose one playbook. Multiple players can choose the same playbook.
 ## Background
 
 Choose a background. Before play tell the table how your background
-works where you're from.
+works where you're from. Whenever there is a quesion related to how your background works, you can feel free to speak up and answer those questions.
 
 * Farmer
 * Miller
@@ -56,7 +54,7 @@ works where you're from.
 * Farrier
 * Fletcher
 * Merchant
-* Noble
+* Royal
 * Painter
 * Baker
 * Musician

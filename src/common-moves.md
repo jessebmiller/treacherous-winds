@@ -100,10 +100,10 @@ for everyone
 
 ## Take a risk
 
-When you **take a risk** discuss with the GM what the risks are then ask
-the GM how many dice to roll.
+When you **take a risk** discuss with the GM what the risks are and what outcomes are not given then ask
+the GM how many dice to roll. GM and the rest of the table may ask relevant questions to help decide how many dice to roll.
 
-Avoid a risk for each hit.
+Avoid a risk or achieve an outcome for each hit.
 
 ## Comprehend
 
@@ -129,72 +129,4 @@ Ask the GM 1 question for each hit:
 - What is someone really feeling?
 - What does someone wish I'd do?
 - What would it take to get anyone, or some specific someone to ___?
-
-## Channel magic untrained
-
-The risks for channeling magic untrained do not need to be laid out ahead of
-time. The answers to the questions are fuel for the GM to riff on magical side
-and unintended effects.
-
-When you are desparate and have no option but to open yourself to what forces
-of magic might be here, ask:
-
-- What do you want to happen?
-- Who is the person closest in mind?
-- What is the place closest in mind?
-- What emotions are feeding on all the people present?
-
-Roll as many dice as you want. For each hit choose:
-
-- Get what you want
-- Avoid a risk
-
-GM chooses 3 minus the number of avoided risks
-- Harming or helping (GM choice) the person closest in mind
-- Destroying or enriching (GM choice) the place closest in mind
-- Harming or helping (GM choice) the people present
-- Anything the GM can fathom
-
-Total the highest 3 dice:
-
-|total|outcome|
-|-----|-------|
-|3-7| You are cold, weak, and nauseous until you can sleep for 10 hours.|
-|8-10| As above but too weak to move|
-|11-12| You enter a coma until you can recover in a calm stable place for 8 hours|
-|13-14| As 11-12, but you wake up cold, weak, and nauseous for 24 more hours|
-|15| As 13-14, but you also develop a permenant troublesome mutation|
-|16| As 13-14, but you also develop two permenant troublesome mutations|
-|17| As 13-14, but you also develop a permenant extreme mutation|
-|18| You either mutate so dramatically you lose humanity or die. Retire the character|
-
-Troublesome Mutations (2d6):
-|2d6|mutation|
-|-|-|
-|2|Candle and firelight dims slightly in your presense|
-|3||
-|4||
-|5||
-|6|All your hair turns a wiry stark white|
-|7|Your skin takes on a mottled sickly appearance|
-|8||
-|9||
-|10||
-|11||
-|12|Your hands and feet age 55 years|
-
-Extreme Mutations (2d6):
-|2d6|mutation|
-|-|-|
-|2|Your legs wither to the bone. You require assistance from either an attendant or a device to move around|
-|3||
-|4||
-|5||
-|6|A milky dull eye emerges from your non-dominant forearm|
-|7|A milky dull eye emerges from your dominant forearm|
-|8||
-|9||
-|10||
-|11|A mouth opens up on your neck below your jaw. It tends to gurgle, grind its teeth, and mutter in a forgotten language|
-|12|Every hair follicle on your body sprouts a tentacle|
 
