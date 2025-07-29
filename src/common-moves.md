@@ -63,7 +63,7 @@ Risk ideas:
 
 ## Invoke your station
 
-When you **Invoke your position, rank, or station** to make a request
+When you **invoke your position, rank, or station** to make a request
 or demand, ask:
 
 - Do they recognise the symbols of your station?

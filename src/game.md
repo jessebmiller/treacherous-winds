@@ -12,9 +12,9 @@
 
 When you **fight untrained** ask:
 
-* Are you defending yourself or someone you love?
-* Are you well rested and sober?
-* Are you of sound mind not driven by rage or hubris?
+- Are you defending yourself or someone you love?
+- Are you well rested and sober?
+- Are you of sound mind not driven by rage or hubris?
 
 Roll 1d6 for each yes and choose 1 for each hit.
 

@@ -1,5 +1,7 @@
 # Ranger
 
+Play a ranger if you want internal struggle with predation and a fight against the Wild Hunt
+
 ## Warrior of the land
 
 When you **fight using the terrain for advantage** ask:
@@ -34,4 +36,5 @@ When you [**comprehend**](../common-moves.md#comprehend) you may spend a hit on:
 
 - Who here has trouble sitting with their own thoughts?
 - who here is comfortable with the brutality of the wild?
+
 

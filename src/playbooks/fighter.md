@@ -1,5 +1,7 @@
 # Fighter
 
+Play a Fighter if you want internal struggles with aggression and violence and to fight a dragon.
+
 ## Moves
 
 Start with only the common moves. Gain one each time you complete each of acts 1-4 of your arc.
@@ -27,7 +29,7 @@ Risk ideas:
 ### Expressive violence
 
 When you intimidate someone and [**impose your will with the threat of
-violence**](../common-moves.md#intimidate-someone) Roll with the extra questions.
+violence**](../common-moves.md#intimidate-someone) Roll with the extra questions:
 
 - Have they seen you fight?
 - Do you have a reputation with them for brutality?
@@ -51,9 +53,14 @@ Feel free to write your own questions where you are inspired. These are drawn fr
 
 When you complete each of acts 1-4, gain a move from your Path.
 
+## The enemy
+
+The archetypal enemy of the fighter is the dragon. A dragon is an aggressive, greedy, and violent tyrant. You may make the enemy a metaphorical dragon by highlighting their aggression, greed, violence, and tyrany.
+(editors note: Maybe there is a threats, or monster manual type section with this information)
+
 **Act One:**
 
-Focus: Understanding your home or mundane life and your place within it. (note to self: GM moves per act might be helpful)
+Focus: Understanding your home or mundane life and your place within it. (note to self: are these MC moves?)
 
 Answer **4** to move to Act Two.
 * What makes your home seem small?
@@ -64,13 +71,13 @@ Answer **4** to move to Act Two.
 
 **Act Two:**
 
-Focus: Disruption of your home or mundane life. Introduce an enemy and make it a [world anchor](../setting-the-setting.md#world-anchor). (Multiple characters can have the same enemy)
+Focus: Disruption of your home or mundane life by a dragon. Create it as a [world anchor](../setting-the-setting.md#world-anchor).
 
 Answer **4** to move to Act Three.
 * What inner conflict do you have over aggression?
 * What happens that you can't ignore or abide?
 * What conflict do you try to avoid and why do you fail?
-* What enemy threatens your home and what status quo does the enemy prey on?
+* How does a dragon threaten your home and what status quo do they prey on?
 * What draws you away from home and who must you defeat before you return?
 
 **Act Three:**

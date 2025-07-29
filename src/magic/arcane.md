@@ -1,6 +1,6 @@
 # Arcane magic
 
-The moves of the arcane casters ([Sorcerers](./playbooks/sorcerer.md), [Magisters](./playbooks/magister.md), and [Wizards](./playbooks/wizard.md)) will ask them to describe their spells and how they cast them according to the following understanding of magic.
+The moves of the arcane casters ([Sorcerers](../playbooks/sorcerer.md), [Magisters](../playbooks/magister.md), and [Wizards](../playbooks/wizard.md)) will ask them to describe their spells and how they cast them according to the following understanding of magic.
 
 The arcane practitioners can modify, extract secrets from, and in some cases create temporal reality with their will alone.
 They are masters of the primes and praxes that the temporal world emerges from.
