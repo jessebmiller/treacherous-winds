@@ -34,7 +34,7 @@ Each allignment offers some questions that apply to all moves
 
 ## Humane
 
-* Are you undermining a Diving prophecy?
+* Are you undermining a Divine prophecy?
 * Are you achieving, furthering, or clarifying your own private meaning and purpose?
 * Are you deepening a personal relationship (according to them)?
 
