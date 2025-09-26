@@ -8,7 +8,7 @@ They have the ability to comprehend, manipulate, and some can even produce prime
 
 ## Temporal Primes and their properties
 
-There are three temporal primes. These are the fundamental materials making up the soul, or the substrate of reality. They each impart their properties to the temporal world that emerges from them, as directed by the temporal praxes.
+There are three temporal primes. These are the fundamental materials making up the substrate of reality. They each impart their properties to the temporal world that emerges from them, as directed by the temporal praxes.
 
 ### Sulphur
 
