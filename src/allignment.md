@@ -29,7 +29,7 @@ Each allignment offers some questions that apply to all moves
 ## Divine
 
 * Are you bringing a Divine prophecy to fruition?
-* Are you sacraficing a generous mortal pleasure, furnishment, or nourishment?
+* Are you sacrificing a generous mortal pleasure, furnishment, or nourishment?
 * Are you rewarding the faithful at cost to yourself?
 
 ## Humane
