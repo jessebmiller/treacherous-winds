@@ -2,21 +2,13 @@
 
 Start with only the common moves. Gain one each time you complete each of the first four acts of your arc.
 
-**Determining level of arcane complexity:** The arcane moves below use the level of arcane complexity to determine how difficult and risky it is.
-
-To determine the complexity, start with the number of primes and praxes involved then:
-* add 1-3 for extreme scales (small, tiny, micro, big, huge, enormous)
-* add 1-3 for area of effect (room, city, continent)
-* add 1-3 for extreme precision (use your judgement)
-* whatever other complexity you think is worth a level
-
 ## Arcane Comprehension
 
 When you **push your conciousness into the temporal primes and praxes** to comprehend their secrets:
 
 Ask the GM what you want to find out.
 
-Determine the level of arcane complexity. The GM decides which, if any, are risks and what those risks are.
+Determine the level of [arcane complexity](../magic/arcane.md#Arcane_Complexity). The GM decides which, if any, are risks and what those risks are.
 The remaining levels of complexity are the number of hits needed for a full clear answer.
 
 Roll as many dice as you want.
