@@ -8,7 +8,7 @@ When you **push your conciousness into the temporal primes and praxes** to compr
 
 Ask the GM what you want to find out.
 
-Determine the level of [arcane complexity](../magic/arcane.md#Arcane_Complexity). The GM decides which, if any, are risks and what those risks are.
+Determine the level of [arcane complexity](../magic/arcane.md#arcane-omplexity). The GM decides which, if any, are risks and what those risks are.
 The remaining levels of complexity are the number of hits needed for a full clear answer.
 
 Roll as many dice as you want.
