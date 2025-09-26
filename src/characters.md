@@ -2,7 +2,7 @@
 
 Character creation is very simple. Choose an
 [allignment](./allignment.md), a [playbook](./playbooks.md), and a
-[background](./background.md). Then choose pronouns, a name, and breifly
+background. Then choose pronouns, a name, and breifly
 describe your look.
 
 You can look ahead to see what each choice offers or you can choose
