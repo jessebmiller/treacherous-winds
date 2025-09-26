@@ -154,11 +154,11 @@
                     <main>
                         <h1 id="arcane-magic"><a class="header" href="#arcane-magic">Arcane magic</a></h1>
 <p>The moves of the arcane casters (<a href="../playbooks/sorcerer.html">Sorcerers</a>, <a href="../playbooks/magister.html">Magisters</a>, and <a href="../playbooks/wizard.html">Wizards</a>) will ask them to describe their spells and how they cast them according to the following understanding of magic.</p>
-<p>The arcane practitioners can modify, extract secrets from, and in some cases create temporal reality with their will alone.
+<p>The arcane practitioners can modify, extract secrets from, and in some cases produce temporal reality with their will alone.
 They are masters of the primes and praxes that the temporal world emerges from.
 They have the ability to comprehend, manipulate, and some can even produce primes and praxes directly and at will.</p>
 <h2 id="temporal-primes-and-their-properties"><a class="header" href="#temporal-primes-and-their-properties">Temporal Primes and their properties</a></h2>
-<p>There are three temporal primes. These are the fundamental materials making up the soul, or the substrate of reality. They each impart their properties to the temporal world that emerges from them, as directed by the temporal praxes.</p>
+<p>There are three temporal primes. These are the fundamental materials making up the substrate of reality. They each impart their properties to the temporal world that emerges from them, as directed by the temporal praxes.</p>
 <h3 id="sulphur"><a class="header" href="#sulphur">Sulphur</a></h3>
 <p>Explosivity, flamability, sudden transformation, passion, drive, aggression, impulsivity</p>
 <h3 id="mercury"><a class="header" href="#mercury">Mercury</a></h3>
@@ -174,6 +174,15 @@ They have the ability to comprehend, manipulate, and some can even produce prime
 <h3 id="spin"><a class="header" href="#spin">Spin</a></h3>
 <h3 id="heat"><a class="header" href="#heat">Heat</a></h3>
 <h3 id="radiance"><a class="header" href="#radiance">Radiance</a></h3>
+<h2 id="arcane-complexity"><a class="header" href="#arcane-complexity">Arcane Complexity</a></h2>
+<p>The arcane moves use the level of arcane complexity to decide how difficult and risky they are.</p>
+<p>To determine arcane complexity, start with the number of primes and praxes involved then:</p>
+<ul>
+<li>add 1-3 for extreme scales (small, tiny, micro, big, huge, enormous)</li>
+<li>add 1-3 for area of effect (room, city, continent)</li>
+<li>add 1-3 for extreme precision (use your judgement)</li>
+<li>whatever other complexity you think is worth a level</li>
+</ul>
 
                     </main>
 
@@ -204,22 +213,6 @@ They have the ability to comprehend, manipulate, and some can even produce prime
 
         </div>
 
-        <!-- Livereload script (if served using the cli tool) -->
-        <script>
-            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
-            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
-            const socket = new WebSocket(wsAddress);
-            socket.onmessage = function (event) {
-                if (event.data === "reload") {
-                    socket.close();
-                    location.reload();
-                }
-            };
-
-            window.onbeforeunload = function() {
-                socket.close();
-            }
-        </script>
 
 
 

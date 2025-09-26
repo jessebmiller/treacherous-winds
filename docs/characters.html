@@ -155,7 +155,7 @@
                         <h1 id="character-creation"><a class="header" href="#character-creation">Character Creation</a></h1>
 <p>Character creation is very simple. Choose an
 <a href="./allignment.html">allignment</a>, a <a href="./playbooks.html">playbook</a>, and a
-<a href="./background.html">background</a>. Then choose pronouns, a name, and breifly
+background. Then choose pronouns, a name, and breifly
 describe your look.</p>
 <p>You can look ahead to see what each choice offers or you can choose
 whatever catches your eye from below. Write it down as follows.</p>
@@ -240,22 +240,6 @@ works where you're from. Whenever there is a quesion related to how your backgro
 
         </div>
 
-        <!-- Livereload script (if served using the cli tool) -->
-        <script>
-            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
-            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
-            const socket = new WebSocket(wsAddress);
-            socket.onmessage = function (event) {
-                if (event.data === "reload") {
-                    socket.close();
-                    location.reload();
-                }
-            };
-
-            window.onbeforeunload = function() {
-                socket.close();
-            }
-        </script>
 
 
 
