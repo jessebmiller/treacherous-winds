@@ -13,7 +13,6 @@
   - [Paladin](./playbooks/paladin.md)
   - [Sorcerer](./playbooks/sorcerer.md)
 - [Allignment](./allignment.md)
-- [Background](./background.md)
 - [Magic](./magic.md)
   - [Arcane](./magic/arcane.md)
   - [Divine](./magic/divine.md)
