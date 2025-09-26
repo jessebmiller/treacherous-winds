@@ -8,12 +8,11 @@ When you **push your conciousness into the temporal primes and praxes** to compr
 
 Ask the GM what you want to find out.
 
-Determine the level of [arcane complexity](../magic/arcane.md#arcane-omplexity). The GM decides which, if any, are risks and what those risks are.
-The remaining levels of complexity are the number of hits needed for a full clear answer.
+Determine the level of [arcane complexity](../magic/arcane.md#arcane-omplexity). There is a risk of obfucation (confusing or misleading answers) for each level of complexity. The GM may replace any risk of obfucation with a risk of their own as they prefer.
 
 Roll as many dice as you want.
 
-You may use hits to avoid risks. The rest determine how much you learn. If there are hits left but fewer than you need for a full clear answer, the GM will give you a partial and obfuscated true answer.
+Spend hits to avoid risks one for one.
 
 Check for arcane fallout.
 
@@ -21,7 +20,7 @@ Check for arcane fallout.
 
 When you **manipulate temporal primes and praxes** describe the set of effects you want to create and how you'll manipulate the primes and praxes here to do it. Describe the outcome or outcomes you want those effects to have.
 
-For each prime or praxis manipulated
+Determine the level of [arcane complexity](../magic/arcane.md#arcane-omplexity). There is a risk of spell failure for each level of complexity. The GM may replace any risk of failure with a risk of their own as they prefer.
 
 Roll as many dice as you want. For each hit choose:
 
@@ -32,7 +31,7 @@ Check for arcane fallout.
 
 ## Arcane Production
 
-When you **maniulate temporal primes and praxes** you may also add any primes and praxes you like to the area for your effects.
+When you **maniulate temporal primes and praxes** you may procude any primes and praxes you like in the area for your effects.
 
 ## Arcane Specializationin
 
