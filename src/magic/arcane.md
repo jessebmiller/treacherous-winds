@@ -39,3 +39,13 @@ There are six temporal praxes or methods of emergence. These are the fundamental
 ### Heat
 
 ### Radiance
+
+## Arcane Complexity
+
+The arcane moves use the level of arcane complexity to decide how difficult and risky they are.
+
+To determine arcane complexity, start with the number of primes and praxes involved then:
+* add 1-3 for extreme scales (small, tiny, micro, big, huge, enormous)
+* add 1-3 for area of effect (room, city, continent)
+* add 1-3 for extreme precision (use your judgement)
+* whatever other complexity you think is worth a level
