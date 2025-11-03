@@ -89,4 +89,10 @@ TBD but something like:
 * Cultivate curiosity about characters arc questions
 * Name everyone, give everyone humanity, villainy, or both
 
+## Multiple Perspectives
 
+Epic fantasy literature is known for multiple perspectives. It can show the
+vastness and wondrousness of the world to see it from different angles, and
+through different eyes. Whenever anyone wants to, introduce another PC.
+<TODO: write some player advice about playing multiple characters. Keep them
+separate, out of the same scene where possible, keep their objectives their own>
