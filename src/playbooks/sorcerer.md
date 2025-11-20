@@ -1,6 +1,27 @@
 # Sorcerer
 
-Start with only the common moves. Gain one each time you complete each of the first four acts of your arc.
+Start with only the untrained and common moves. Gain one each time you complete each of the first four acts of your arc.
+
+## Cast Untrained
+
+When you **weild magic without training, experience, or practice** state your goal and intended effect then ask:
+
+- Is the effect modest and mundane?
+- Is the effect safe for everyone?
+- Are you reaching for the last possible option to save yourself or someone you love?
+
+Roll 1d6 for each 'yes':
+
+If there is at least 1 hit, spend it on achieving your goal and intended effect.
+
+the GM holds all misses and may spend them in the future (this session) as arcane reverberations and aftershocks
+
+
+## Alternate Arcane Magic Move
+
+When you **weild magic** State your aims, and how magic works through you.
+Answer:  
+
 
 ## Arcane Comprehension
 
@@ -47,8 +68,7 @@ When you **check for arcane fallout** sum up the highest 3 dice from your roll a
 
 |total|outcome|
 |-----|-------|
-|3-7| You are cold, weak, and nauseous until you can sleep for 10 hours.|
-|8-10| As above but too weak to move|
+|8-10| You are cold, weak, and nauseous until you can sleep for 10 hours.|
 |11-12| You enter a coma until you can recover in a calm stable place for 8 hours|
 |13-14| As 11-12, but you wake up cold, weak, and nauseous for 24 more hours|
 |15| As 13-14, but you also develop a permenant troublesome mutation|
@@ -57,7 +77,7 @@ When you **check for arcane fallout** sum up the highest 3 dice from your roll a
 |18| You mutate so dramatically you lose humanity or die. Retire the character|
 
 |2d6|Troublesome Mutation|
-|-|-|
+|---|--------------------|
 |2|Candle and firelight dims slightly in your presense|
 |3|Your eyes tear up at the slightest provocation|
 |4|You taste nothing but ash|
@@ -71,7 +91,7 @@ When you **check for arcane fallout** sum up the highest 3 dice from your roll a
 |12|Your hands and feet age 55 years|
 
 |2d6|Extreme Mutation|
-|-|-|
+|---|----------------|
 |2|Your legs wither to the bone. You require assistance from either an attendant or a device to move around|
 |3|7 eyes of 7 beasts emerge crowding your forehead|
 |4|You grow a crown of gnarled horn|

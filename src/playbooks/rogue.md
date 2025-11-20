@@ -15,9 +15,11 @@ Roll 1d6 for each 'yes' and choose 1 for each hit:
 - Inflict precise harm
 - Impress, frighten, or confuse them
 - Create and opportunity for escape
-- Avoid suffering harm
-- Avoid a tough spot
-- Avoid a turn for the worse
+
+Risk ideas:
+- suffer harm
+- Be put in a tough spot
+- Gain a reputation
 
 ## Sneak attack
 
