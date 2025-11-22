@@ -4,8 +4,8 @@ In Epic Fantasy anything from people, institutions, cultures, to magic itself ca
 
 This section describes world building through creating non player characters (NPCs)
 
-- Animals
-  - Herds/Flocks/Schools
+- Animals (To eat, sleep, breed, and...)
+  - Herds/Flocks/Schools (be overlooked in the crowd)
     - Deer/Elk/Antelope/Gazelles
     - Elephants
     - Boars
@@ -14,7 +14,7 @@ This section describes world building through creating non player characters (NP
     - Horses/Zebras
     - Fish
     - Birds
-  - Pack Predators
+  - Pack Predators (chase, track, hunt, and kill, together)
     - Wolves/Coyotes/Hyenas/Wild Dogs
     - Mongooses
     - Badgers
@@ -25,7 +25,7 @@ This section describes world building through creating non player characters (NP
     - Vultures
     - Ravens/Crows
     - Cormorants
-  - Solitary Predators
+  - Solitary Predators (chase, track, hunt, and kill)
     - Cats (Tigers, Leopards, Cheetahs, Mountain Lions)
     - Bears
     - Wolverines
@@ -39,47 +39,52 @@ This section describes world building through creating non player characters (NP
     - Eels
     - Octopuses
     - Seals
-  - Colonies
+  - Colonies (work, move, and swarm together)
     - Ants
     - Termites
     - Bees
 
 - Monsters
-  - Dragons
-  - Beasts
-  - Fey
-  - Undead
-  - Shades
-  - Horrors
-  - Cosmic
-  - Elemental
-  - Giant
+  - Dragons (To consume and hoard)
+  - Beasts (To dominate)
+  - Fey (To play and teach strange lessons)
+  - Undead (to grasp for and consume life)
+  - Shades (to hide, ovserve, and absorb)
+  - Horrors (To destroy?)
+  - Cosmic (to attain unknowable things)
  
-- Institutions
-  - Religion/Faith/Church
-  - Kingdom/Nation
-  - City/Town
-  - Castle/Keep
-  - Inquision
-  - Army/Guard/Watch
-  - Tournament/Festival
-  - Academy
-  - Archive
-  - Craft/Merchant Guild
+- Institutions (To maintain the status quo and...)
+  - Religion/Faith/Church (convince and console)
+  - Kingdom/Nation (prosper)
+  - City/Town (provide)
+  - Castle/Keep (defend)
+  - Inquision (extract confession)
+  - Army/Guard (fight and deter fighting)
+  - Watch (observe to raise the alarm)
+  - Tournament/Festival (celebrate and compete)
+  - Academy/Archive (study, collect, and impress)
+  - Craft/Merchant Guild (work, create, and trade)
 
-- Agents
-  - Zealot
-  - Administrator
-  - Recruiter
-  - Enforcer
-  - Infiltrator
-  - Worker
+- Movements (To challenge or change the status quo through)
+  - Mobs (group urgent and impulsive action)
+  - Rebellions/Revolts (planed and coordinated action)
+  - Heresies/Reforms/devotions (moral and spiratual proselytism)
+  - Petitions (the coordinated collection of ascent)
+  - Firebrand (drastic solitary action)
 
-- Leaders
-  - Royalty
-  - Monarch
-  - Puppet Master
-  - Tyrant
-  - Demagogue
-  - Respected
-  - Assigned 
+- Agents (To support or promote an institution or movement by...)
+  - Zealot (any means nessesary)
+  - Administrator (delegation and maintaining records)
+  - Recruiter (bringing in new members)
+  - Enforcer (punishing descent and the guilty)
+  - Infiltrator (earning trust to be used against it)
+  - Worker (finishing tasks and jobs)
+
+- Leaders (To gain and maintain power...)
+  - Royalty (through displays of wealth, clarity of linneage, and the status quo)
+  - Monarch (through displays of nobility, high decree, 
+  - Puppet Master (by controlling others)
+  - Tyrant (through cruelty and oppression)
+  - Demagogue (by exploiting desires and prejudices)
+  - Respected (for a group who needs, demands, or expectes it)
+  - Assigned (for another leader)
