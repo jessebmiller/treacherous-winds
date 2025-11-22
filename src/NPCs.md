@@ -6,10 +6,43 @@ This section describes world building through creating non player characters (NP
 
 - Animals
   - Herds/Flocks/Schools
+    - Deer/Elk/Antelope/Gazelles
+    - Elephants
+    - Boars
+    - Buffalo/Bison/Yaks
+    - Sheep/Goats
+    - Horses/Zebras
+    - Fish
+    - Birds
   - Pack Predators
+    - Wolves/Coyotes/Hyenas/Wild Dogs
+    - Mongooses
+    - Badgers
+    - Lions
+    - Otters
+    - Orcas/Dolphins
+    - Hawks/Falcons
+    - Vultures
+    - Ravens/Crows
+    - Cormorants
   - Solitary Predators
+    - Cats (Tigers, Leopards, Cheetahs, Mountain Lions)
+    - Bears
+    - Wolverines
+    - Weasels
+    - Snakes
+    - Alagators
+    - Eagles
+    - Hawks/Falcons
+    - Owls
+    - Sharks
+    - Eels
+    - Octopuses
+    - Seals
   - Colonies
-  - Swarms
+    - Ants
+    - Termites
+    - Bees
 
 - Monsters
   - Dragons
