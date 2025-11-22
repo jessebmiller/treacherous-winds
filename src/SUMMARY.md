@@ -17,4 +17,4 @@
   - [Arcane](./magic/arcane.md)
   - [Divine](./magic/divine.md)
   - [Natural](./magic/natural.md)
-
+- [NPCs](./NPCs.md)
