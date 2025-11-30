@@ -1,11 +1,24 @@
 # Non Player Characters
 
-In Epic Fantasy anything from people, institutions, cultures, to magic itself can be a character.
+In epic fantasy, and Treacherous Winds, anything from people, institutions, cultures, to magic itself can be a character.
 
-This section describes world building through creating non player characters (NPCs)
+As a GM you'll do some of your world building through creating non player characters (NPCs)
+
+To create an NPC copy the type and subtypes to a card, slip of paper, or whatever digital system
+you like to use to organize notes for play.
+
+copy all drives
+
+As you play note anything relevant that you'd like to keep track of, especially bonds and reputations.
+Note questions you're curious to answer through the course of play
+
+We learn about any of these characters much in the same way that we learn about characters in epic
+fantasy literature. They may be introduced in a flash or slowly. They may be foreshadowed, disclosing
+details as hints and clues. A massive claw mark on a cupboard, droppings, a whisper passing through
+a crowd etc.
 
 - Animals (To eat, sleep, breed, and...)
-  - Herds/Flocks/Schools (be overlooked in the crowd)
+  - Herd/Flock/School (be overlooked in the crowd)
     - Deer/Elk/Antelope/Gazelles
     - Elephants
     - Boars
@@ -25,54 +38,73 @@ This section describes world building through creating non player characters (NP
     - Vultures
     - Ravens/Crows
     - Cormorants
-  - Solitary Predators (chase, track, hunt, and kill)
-    - Cats (Tigers, Leopards, Cheetahs, Mountain Lions)
-    - Bears
-    - Wolverines
-    - Weasels
-    - Snakes
-    - Alagators
-    - Eagles
-    - Hawks/Falcons
-    - Owls
-    - Sharks
-    - Eels
-    - Octopuses
-    - Seals
-  - Colonies (work, move, and swarm together)
+  - Solitary Predator (chase, track, hunt, and kill, alone)
+    - Cat (Tiger, Leopard, Cheetah, Mountain Lion)
+    - Bear
+    - Wolverine
+    - Weasel
+    - Snake
+    - Alagator
+    - Eagle
+    - Hawk
+    - Falcon
+    - Owl
+    - Shark
+    - Eel
+    - Octopuse
+    - Seal
+  - Colony (work, move, and swarm, together)
     - Ants
     - Termites
     - Bees
+    - Rats
+    - Bats
 
-- Monsters
-  - Dragons (To consume and hoard)
-  - Beasts (To dominate)
-  - Fey (To play and teach strange lessons)
-  - Undead (to grasp for and consume life)
-  - Shades (to hide, ovserve, and absorb)
-  - Horrors (To destroy?)
-  - Cosmic (to attain unknowable things)
+- Monster (To erode or destroy humanity and ...)
+  - Beast (hunt, predate, ...)
+    Pick and choose beastly attributes
+    - gigantic (impose and smother)
+    - wild (brutalize the vulnerable)
+    - plague (touch and contaminate)
+    - territorial (to drive out)
+  - Dragon (consume and hoard)
+    Answer these questions through play if you are curious about them
+    - What are dragons?
+    - Do they breathe fire?
+    - Are they intelligent?
+    - Do they communicate with humans? If so, how?
+  - Undead (grasp at and consume life, and ...)
+    - animated (to shamble towards)
+    - lich (to live forever)
+    - ghost/wraith (to complete a final purpose. What is it?)
+    - vampire (to seduce, violate, and drain)
+  - Shade (to hide, observe, and absorb)
+  - Horror (To destroy, consume, and terrify)
+  - Cosmic (to strive for unknowable goals)
+
+- Fey (To play and teach peculiar lessons)
+  - TBD
  
-- Institutions (To maintain the status quo and...)
+- Institution (To maintain the status quo and...)
   - Religion/Faith/Church (convince and console)
   - Kingdom/Nation (prosper)
   - City/Town (provide)
   - Castle/Keep (defend)
   - Inquision (extract confession)
   - Army/Guard (fight and deter fighting)
-  - Watch (observe to raise the alarm)
-  - Tournament/Festival (celebrate and compete)
+  - Watch (observe and to raise the alarm)
+  - Tournament/Festival (celebrate, display, and compete)
   - Academy/Archive (study, collect, and impress)
   - Craft/Merchant Guild (work, create, and trade)
 
-- Movements (To challenge or change the status quo through)
+- Movement (To challenge or change the status quo through)
   - Mobs (group urgent and impulsive action)
   - Rebellions/Revolts (planed and coordinated action)
   - Heresies/Reforms/devotions (moral and spiratual proselytism)
   - Petitions (the coordinated collection of ascent)
   - Firebrand (drastic solitary action)
 
-- Agents (To support or promote an institution or movement by...)
+- Agent (To support or promote an institution or movement by...)
   - Zealot (any means nessesary)
   - Administrator (delegation and maintaining records)
   - Recruiter (bringing in new members)
@@ -80,9 +112,9 @@ This section describes world building through creating non player characters (NP
   - Infiltrator (earning trust to be used against it)
   - Worker (finishing tasks and jobs)
 
-- Leaders (To gain and maintain power...)
+- Leader (To gain and maintain power...)
   - Royalty (through displays of wealth, clarity of linneage, and the status quo)
-  - Monarch (through displays of nobility, high decree, 
+  - Monarch (through displays of nobility, high decree, and judgement)
   - Puppet Master (by controlling others)
   - Tyrant (through cruelty and oppression)
   - Demagogue (by exploiting desires and prejudices)
