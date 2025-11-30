@@ -83,35 +83,35 @@ Answer **4** to move on to Act Four.
 * What camp, hunt, or treck surprisingly fails?
 * Who questions your motives and how do you challenge them?
 * What failures cause self reflection?
-* What challenges expose your potential for protectiveness, withdrawl, and violence?
-* What mistake forces you to reflect on your preditory inclinations?
+* What challenges expose your potential for harmony, withdrawl, and brutality?
+* What mistake forces you to reflect on your villainous inclinations?
 
 **Act Four:**
 
-Focus: The seemingly insurmountable internal struggle with subterfuge and to undermine the Puppet Master.
+Focus: The seemingly insurmountable internal struggle with sociability and to drive off the Wild Hunt.
 
 Answer **4** to move to The Climax
-* How does your plan to undermine the puppet master take you even further into the wider unknown world?
-* What false victory do you have against the puppet master and how do you discover that you haven't won?
-* How do you struggle to undermine the puppet master?
+* How does your plan to drive off the Wild Hunt take you even further into the wider unknown world?
+* What false victory do you have against the Wild Hunt and how do you discover that you haven't won?
+* How do you struggle to drive off the Wild Hunt?
 * What value or belief do you betray for a desperate false victory?
 * How is the false victory hollow and how does it ruin your aims?
-* What fruitless lie causes self reflection?
+* What personal failure causes self reflection?
 
 **The Climax:**
 
-Focus: Crossing an inexorable threshold to undermine the puppet master or be defeated
+Focus: Crossing an inexorable threshold to drive off the Wild Hunt or be captured and incorporated
 
 Answer this, win or lose, to move on to Act Five
-* How do you finally, once and for all, execute your scheme?
+* How do you finally, once and for all, end the struggle against the Wild Hunt?
 
 **Act Five:**
 
-Focus: The lessons you learned about subterfuge and understanding who you really are deep down
+Focus: The lessons you learned about predation and understanding who you really are deep down
 
-Answer all of the following
-* Do you embody your own identity, separate from your manipulative instincts? How?
-* Do you you love yourself more than the power of subterfuge? How?
-* Do you sacrifice your cleverness and embrace love? How?
+Answer all of the following you're curious about
+* Do you embody your own identity, separate from your predatory instincts? How?
+* Do you you love yourself more than the distance of the wild? How?
+* Do you sacrifice your independance and embrace love? How?
 * Are you empowered by love? How?
 
