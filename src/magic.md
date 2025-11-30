@@ -16,5 +16,5 @@ It risks punishment for misuse and zealotry from overuse.
 ## [Natural](./magic/natural.md) Magic of [Rangers](./playbooks/ranger.md), Wardens, and Druids.
 
 Natural magic is the art of mutuality and cooperation with nature.
-It risks loss of humanity, becoming feral, drowing in the depth and immediacy of the wild.
+It risks loss of civilized humanity, becoming feral, predatory, drowing in the depth and immediacy of the wild.
 
