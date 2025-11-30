@@ -109,7 +109,7 @@ Answer this, win or lose, to move on to Act Five
 
 Focus: The lessons you learned about predation and understanding who you really are deep down
 
-Answer all of the following you're curious about
+Answer all of the following that you're curious about
 * Do you embody your own identity, separate from your predatory instincts? How?
 * Do you you love yourself more than the distance of the wild? How?
 * Do you sacrifice your independance and embrace love? How?
