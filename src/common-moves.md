@@ -2,7 +2,7 @@
 
 Everyone gets the following moves.
 
-## Fight
+## Fight untrained
 
 When you **fight untrained** ask:
 
@@ -37,9 +37,9 @@ Roll 1d6 for each yes an dchoose 1 for each hit:
 
 Risk ideas:
 - They expect payment, reciprocity, or debt
-- Add a Beat: Will they discover they've been manipulated and what
-  revenge will they seek?
-- Add a Bond: They despise you (or love you) and look to insert
+- Add a clock to answer the queston: Will they discover they've 
+  been manipulated and what revenge will they seek?
+- Add a Bond: They despise you (or love you) and seek to insert
   themself into your affairs
 
 ## Intimidate someone
@@ -57,7 +57,8 @@ Roll 1d6 for each 'yes' and choose 1 for each hit:
 - Avoid a risk
 
 Risk ideas:
-- Add a Beat: How will they take their revenge for being threatened?
+- Add a Clock to answer the question: How will they take their revenge 
+  for being threatened?
 - They find a way to undermine your larger goal while going along
 - Gain a bad reputation
 
@@ -107,7 +108,7 @@ Avoid a risk or achieve an outcome for each hit.
 
 ## Comprehend
 
-When you closely study or read a situation or person. Or when you, as
+When you closely study or read a situation or character. Or when you, as
 a player, want your character to notice something about a situation or person
 ask:
 
@@ -118,15 +119,15 @@ ask:
 
 Ask the GM 1 question for each hit:
 
-- What happened here recently?
+- What just happened here?
 - What is about to happen?
 - What should I be on the lookout for?
 - What here is useful or valuable to me?
-- Who is really in controll here?
+- Who (or what character) is really in controll here?
 - What's being avoided here?
 - What here is not as it appears?
 - Who is being honest and who is not?
 - What is someone really feeling?
-- What does someone wish I'd do?
+- What does someone (or some character) wish I'd do?
 - What would it take to get anyone, or some specific someone to ___?
 
