@@ -1,6 +1,6 @@
 # Ranger
 
-Play a ranger if you want internal struggle with predation and a fight against the Wild Hunt
+Play a ranger if you want internal struggle with independance, predation and a struggle with the Wild Hunt
 
 ## Warrior of the land
 
