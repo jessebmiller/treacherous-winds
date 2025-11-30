@@ -1,6 +1,6 @@
 # Ranger
 
-Play a ranger if you want internal struggle with independance, predation and a struggle with the Wild Hunt
+Play a ranger if you want internal struggle with independance, predation and defending against a wild beast
 
 ## Warrior of the land
 
@@ -50,7 +50,7 @@ When you complete each of acts 1-4, gain a move from your Path.
 
 ## The enemy
 
-The archetypal enemy of the Ranger is the Wild Hunt. A supernatural hunting party led by a brutal historical figure cursed to spred famine, and strife wherever they go. They hunt, capture, and incorporate anyone who has been cursed by a neighbor.
+The archetypal enemy of the Ranger is a wild beast.
 (editors note: Maybe there is a threats, or monster manual type section with this information)
 
 **Act One:**
@@ -60,20 +60,20 @@ Focus: Understanding your home or mundane life and your place within it. (note t
 Answer **4** to move to Act Two.
 * What makes your home seem small?
 * How do your caregivers or colleagues react to your wandering? 
-* What naive misconception do you have about brutality?
+* What naive misconception do you have about predators?
 * What about your home is unfulfilling?
 * What about your home keeps you complacent?
 
 **Act Two:**
 
-Focus: Disruption of your home or mundane life by the Wild Hunt. Create it as a [world anchor](../setting-the-setting.md#world-anchor).
+Focus: Disruption of your home or mundane life by a wild beast. Create it as a [world anchor](../setting-the-setting.md#world-anchor).
 
 Answer **4** to move to Act Three.
 * What inner conflict do you have over predation?
 * What happens that you can't ignore or abide?
 * What conflict do you try to avoid and why do you fail?
-* How does the Wild Hunt threaten your home and what status quo do they prey on?
-* What draws you away from home and what must you find or discover before you return?
+* How does the wild best threaten your home and how are they defenseless?
+* What draws you out into the wild and what must you find or discover before you return?
 
 **Act Three:**
 
@@ -88,22 +88,22 @@ Answer **4** to move on to Act Four.
 
 **Act Four:**
 
-Focus: The seemingly insurmountable internal struggle with sociability and to drive off the Wild Hunt.
+Focus: The seemingly insurmountable internal struggle with sociability and to hunt the wild beast.
 
 Answer **4** to move to The Climax
-* How does your plan to drive off the Wild Hunt take you even further into the wider unknown world?
-* What false victory do you have against the Wild Hunt and how do you discover that you haven't won?
-* How do you struggle to drive off the Wild Hunt?
+* How does your plan to hunt the wild beast take you even further into the wider unknown world?
+* What false victory do you have against the wild beast and how do you discover that you haven't won?
+* How do you struggle to hunt the wild beast?
 * What value or belief do you betray for a desperate false victory?
 * How is the false victory hollow and how does it ruin your aims?
 * What personal failure causes self reflection?
 
 **The Climax:**
 
-Focus: Crossing an inexorable threshold to drive off the Wild Hunt or be captured and incorporated
+Focus: Crossing an inexorable threshold of the hunt
 
 Answer this, win or lose, to move on to Act Five
-* How do you finally, once and for all, end the struggle against the Wild Hunt?
+* How do you finally, once and for all, end the hunt of the wild beast?
 
 **Act Five:**
 
