@@ -18,3 +18,4 @@
   - [Divine](./magic/divine.md)
   - [Natural](./magic/natural.md)
 - [NPCs](./NPCs.md)
+- [Bonds and Reputations](./bonds-and-reputations.md)
