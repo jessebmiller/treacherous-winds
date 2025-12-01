@@ -1,7 +1,4 @@
 [book]
 authors = ["Jesse B. Miller"]
 language = "en"
-src = "src"
 
-[build]
-build-dir = "docs"
