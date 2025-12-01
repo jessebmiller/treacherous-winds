@@ -2,3 +2,5 @@
 authors = ["Jesse B. Miller"]
 language = "en"
 
+[build]
+build-dir = "docs"
