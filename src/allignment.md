@@ -22,7 +22,7 @@ Each allignment offers some questions that apply to all moves
 
 ## Chaotic
 
-* Are you freeing the imprisoned?
+* Are you challenging authority?
 * Are you disrupting who claims to be another's master?
 * Are you stoking discent at great risk to yourself?
 
