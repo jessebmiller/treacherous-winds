@@ -16,15 +16,15 @@ Each allignment offers some questions that apply to all moves
 
 ## Lawful
 
-* Are you enforcing a relevant local, cultural, or religious Law?
+* Are you enforcing a local, cultural, or religious Law?
 * Are you punnishing the guilty?
-* Are you prioritizing an institution over yourself?
+* Are you prioritizing an institution?
 
 ## Chaotic
 
-* Are you challenging authority?
-* Are you disrupting who claims to be another's master?
-* Are you stoking discent at great risk to yourself?
+* Are you challenging an institution?
+* Are you breaking someone's chains?
+* Are you stoking discent?
 
 ## Divine
 
