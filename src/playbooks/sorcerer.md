@@ -4,7 +4,7 @@ Start with only the untrained and common moves. Gain one each time you complete 
 
 ## Cast Untrained
 
-When you **weild magic without training, experience, or practice** state your goal and intended effect then ask:
+When you **wield magic without training, experience, or practice** state your goal and intended effect then ask:
 
 - Is the effect modest and mundane?
 - Is the effect safe for everyone?
@@ -25,11 +25,11 @@ Answer:
 
 ## Arcane Comprehension
 
-When you **push your conciousness into the temporal primes and praxes** to comprehend their secrets:
+When you **push your consciousness into the temporal primes and praxes** to comprehend their secrets:
 
 Ask the GM what you want to find out.
 
-Determine the level of [arcane complexity](../magic/arcane.md#arcane-omplexity). There is a risk of obfucation (confusing or misleading answers) for each level of complexity. The GM may replace any risk of obfucation with a risk of their own as they prefer.
+Determine the level of [arcane complexity](../magic/arcane.md#arcane-omplexity). There is a risk of obfuscation (confusing or misleading answers) for each level of complexity. The GM may replace any risk of obfuscation with a risk of their own as they prefer.
 
 Roll as many dice as you want.
 
