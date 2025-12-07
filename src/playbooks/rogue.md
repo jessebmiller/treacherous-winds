@@ -46,7 +46,7 @@ lie**](../common-moves.html#manipulate-someone) roll with +1 die.
 
 ## Mark
 
-When you (**Comprehend**)[../common-moves.md#comprehend] you may spend a hit on:
+When you [**Comprehend**](../common-moves.md#comprehend) you may spend a hit on:
 
 - Who here is hiding wealth?
 - Who here is keeping juicy secrets?
