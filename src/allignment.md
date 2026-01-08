@@ -2,15 +2,13 @@
 
 There are a number of fundamental dichotomies, pairs of opposed
 universal forces in eternal struggle against their opposite.
-Characters may allign with one side of one dichotomy or choose to be
-agnostic to these conflicts.
+Characters may allign with one side of one dichotomy.
 
 The allignments are:
 
 * Lawful vs. Chaotic
 * Divine vs. Humane
 * Noble vs. Humble
-* Agnostic
 
 Each allignment offers some questions that apply to all moves
 
@@ -42,7 +40,7 @@ Each allignment offers some questions that apply to all moves
 
 * Are you providing societal stability and leadership not otherwise provided by law?
 * Are you furthering the goals, ambitions, or reputation of your Noble house?
-* Are you prioritizing your Noble duty over personal wealth and power?
+* Are you prioritizing your Noble duty at personal cost?
 
 ## Humble
 
