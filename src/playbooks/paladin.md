@@ -6,11 +6,12 @@ Play a Paladin if you want internal struggles with justice and external struggle
 
 When you **invoke your position, rank, or station** roll with the extra questions:
 
-- Do they know of your God?
+- Do they follow your diety?
 - Do they share your allignment?
+- Are you following an omen?
 
 Risk ideas:
-- your god is displeased
+- your diety is displeased
 - reputation for unfairness or injustice
 
 ## Righteous observation
@@ -26,7 +27,7 @@ When you [**comprehend**](../common-moves.md#comprehend) you may spend a hit on:
 When you **fight with righteousness** ask:
 
 - Do you have weapons and armor well suited for this fight?
-- Does your god see this fight as service to them?
+- Does your diety see this fight as service to them?
 - Are you following an omen?
 
 Roll 1d6 for each yes and choose 1 for each hit.
@@ -44,16 +45,18 @@ Common Risks:
 
 ## Smite Evil
 
-When you **cause physical harm to destroy evil** ask:
+When you **believe your actions carry devine justice** tell the
+GM how you know and what outcomes will deliver justice.
 
-- Does your god want this destroyed?
-- Is the evil past any possibility of redemption?
+Your diety grants as many dice as they want.
 
-Roll 1d6 for each yes. Your god may spend:
-- 1 to crack the evil
-- 2 to shatter the evil
-- 3 to kill the evil
-- 4 to banish the evil from reality
+Spend a hit to achieve an outcome or avoid a risk.
+
+Common Risks:
+- Anger your diety
+- Gain the attention of rival faiths
+- A confusing omen
+- harm
 
 ## Arc
 

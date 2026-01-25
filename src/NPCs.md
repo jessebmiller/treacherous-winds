@@ -122,3 +122,21 @@ a crowd etc.
   - Tyrant (through cruelty and oppression)
   - Demagogue (by exploiting desires and prejudices)
   - Respected (for a group who needs, demands, or expectes it)
+
+- Terain
+  - Cliff (To stop, impose)
+  - River (To direct travle along, separate)
+  - Forest (To enclose, shade)
+  - Glen, ravine, cave (To obscure, hide, protect)
+  - Field, meadow (To expose, welcome)
+  - Desert (To slow, consume)
+  - Mountain (To frustrate, challenge)
+  - Swamp (To trap, pull under)
+  - Tundra (To freeze, oppose change)
+
+## Names
+
+- Wallace
+- Cadmonton
+- Luna
+  

@@ -1,109 +1,83 @@
 # Sorcerer
 
-Start with only the untrained and common moves. Gain one each time you complete each of the first four acts of your arc.
+Start with only the untrained and common moves.
+Unlock the other moves in this playbook when you have learned how.
 
 ## Cast Untrained
 
 When you **wield magic without training, experience, or practice** state your goal and intended effect then ask:
 
 - Is the effect modest and mundane?
-- Is the effect safe for everyone?
+- Is the effect safe?
 - Are you reaching for the last possible option to save yourself or someone you love?
 
 Roll 1d6 for each 'yes':
 
 If there is at least 1 hit, spend it on achieving your goal and intended effect.
 
-the GM holds all misses and may spend them in the future (this session) as arcane reverberations and aftershocks
+the GM holds all misses and may spend them as future arcane reverberations and aftershocks eminating from this weilding.
 
+### Learning magic
 
-## Alternate Arcane Magic Move
-
-When you **weild magic** State your aims, and how magic works through you.
-Answer:  
-
+As you learn magic through observation, practical training, or trial and error, record the answers to the questions associated with
+arcane comprehension, manipulation, and production. When all questions for a given arcane move (comprehension, manipulation, production)
+has been answered through play you unlock that move.
 
 ## Arcane Comprehension
 
-When you **push your consciousness into the temporal primes and praxes** to comprehend their secrets:
+After you have learned the following lessons:
 
-Ask the GM what you want to find out.
+- How do you read the local arcane of which temporal reality reality emurges? How did you learn this?
+- By what means do you understand what you read? How did you learn this?
+- What arcane reverberations do you fear? Where is this fear from?
 
-Determine the level of [arcane complexity](../magic/arcane.md#arcane-omplexity). There is a risk of obfuscation (confusing or misleading answers) for each level of complexity. The GM may replace any risk of obfuscation with a risk of their own as they prefer.
+When you **push your consciousness into the arcane** to comprehend its secrets, say how you
+read and understand it.
 
 Roll as many dice as you want.
 
-Spend hits to avoid risks one for one.
+For every 6 rolled the GM will give specific and useful information. They might ask what you are looking for
+or they may give you something unprompted.
 
-Check for arcane fallout.
+For every 5 rolled the GM will give an impression. They might ask you questions. Answer
+them if they do.
 
-## Arcane Manipulation
+For every 1 rolled the GM holds an arcane reverberation.
 
-When you **manipulate temporal primes and praxes** describe the set of effects you want to create and how you'll manipulate the primes and praxes here to do it. Describe the outcome or outcomes you want those effects to have.
+## Impose your will
 
-Determine the level of [arcane complexity](../magic/arcane.md#arcane-omplexity). There is a risk of spell failure for each level of complexity. The GM may replace any risk of failure with a risk of their own as they prefer.
+After you have learned the following lessons:
 
-Roll as many dice as you want. For each hit choose:
+- What local specifics of the arcane determine or limit what reality might emurge? How did you learn this?
+- How does your will come to impose itself upon the arcane? How did you learn this?
+- By what mechanism do you control the arcane and the reality that emurges from it? How did you learn this?
+- What arcane reverberations do you fear from drastic or frequent manipulation? Where is this fear from?
 
-- Achieve an outcome
-- Avoid a risk
+When you **impose your will upon the arcane emurgence** describe the effects you wish to emurge and how you'll
+manipulate the arcane to cause it. Describe the outcomes you want those effects to achieve.
 
-Check for arcane fallout.
+Establish the risks and roll as many dice as you want.
+
+Spend hits to avoid a risk or achieve an outcome.
+
+For every 1 rolled the GM holds an arcane reverberation.
 
 ## Arcane Production
 
-When you **maniulate temporal primes and praxes** you may procude any primes and praxes you like in the area for your effects.
+After you have learned the following lessons:
 
-## Arcane Specializationin
+- What is the source of the arcane? How did you learn this?
+- How does reality emurge from the arcane? How did you learn this?
+- What keeps the arcane from melting the structure of temporal reality? How did you learn this?
+- What dire cost makes you dread the need for arcane production? How did you learn this?
+- What arcane reverberations do you fear when you must produce the arcane? How did you learn this?
 
-You may gain this move more than once. Each time you gain this move choose a prime, a praxis, large scale, small scale, area of effect, or precision. The complexity of arcane moves involving your choice is one level less complex.
+When you **impose your will upon the arcane emurgence** you may first describe how you shape the specifics
+of the local arcane to your will.
 
-## Arcane Resiliency
+If you do, pay the cost, shape the arcane, **impose your will**, and suffer the reverberations.
 
-You may gain this move more than once. You may treat any die as a 5 when checking arcane fallout.
-
-## Arcane fallout
-
-When you **check for arcane fallout** sum up the highest 3 dice from your roll and follow the instructions on the tables bellow.
-
-|total|outcome|
-|-----|-------|
-|8-10| You are cold, weak, and nauseous until you can sleep for 10 hours.|
-|11-12| You enter a coma until you can recover in a calm stable place for 8 hours|
-|13-14| As 11-12, but you wake up cold, weak, and nauseous for 24 more hours|
-|15| As 13-14, but you also develop a permenant troublesome mutation|
-|16| As 13-14, but you also develop two permenant troublesome mutations|
-|17| As 13-14, but you also develop a permenant extreme mutation|
-|18| You mutate so dramatically you lose humanity or die. Retire the character|
-
-|2d6|Troublesome Mutation|
-|---|--------------------|
-|2|Candle and firelight dims slightly in your presense|
-|3|Your eyes tear up at the slightest provocation|
-|4|You taste nothing but ash|
-|5|Your speech echos more powerfully than is natural|
-|6|All your hair turns a wiry stark white|
-|7|Your skin takes on a mottled sickly appearance|
-|8|You have an allarming amount of trouble getting through doorways|
-|9|You taste nothing but salt|
-|10|You feel the pain of those you hurt|
-|11|You have serious trouble with balance|
-|12|Your hands and feet age 55 years|
-
-|2d6|Extreme Mutation|
-|---|----------------|
-|2|Your legs wither to the bone. You require assistance from either an attendant or a device to move around|
-|3|7 eyes of 7 beasts emerge crowding your forehead|
-|4|You grow a crown of gnarled horn|
-|5|Your saliva turns to murcury on contact with air|
-|6|A milky dull eye emerges from your non-dominant forearm|
-|7|A milky dull eye emerges from your dominant forearm|
-|8|You float and drift when sleeping|
-|9|You are not illuminated by sunlight|
-|10|You and what you carry are neutrally buoyant in all fluids and gasses|
-|11|A mouth opens up on your neck below your jaw. It tends to gurgle, grind its teeth, and mutter in a forgotten language|
-|12|Every hair follicle on your body sprouts a tentacle|
-
+Check for arcane fallout.
 
 ## Arc
 
@@ -123,7 +97,7 @@ The archetypal enemy of the Absolute Tyrant. An Absolute Tyrant weilds absolute 
 
 **Act One:**
 
-Focus: Understanding your home or mundane life and your place within it. (note to self: are these MC moves?)
+Focus: Understanding your home or mundane life and your place within it.
 
 Answer **4** to move to Act Two.
 * What makes your home seem small?
@@ -171,7 +145,7 @@ Answer **4** to move to The Climax
 Focus: A true ultimatum. One or the other will back down for good.
 
 Answer this, win or lose, to move on to Act Five
-* How do you finally, once and for all, who will dominate the other?
+* How do you finally, once and for all, establish who will dominate the other?
 
 **Act Five:**
 
