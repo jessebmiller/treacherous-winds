@@ -131,3 +131,16 @@ Ask the GM 1 question for each hit:
 - What does someone (or some character) wish I'd do?
 - What would it take to get anyone, or some specific someone to ___?
 
+When you **notice a sign of unfamiliar history** speculate on what it must
+mean then ask
+
+- Is the speculation plausible?
+- Does the speculation build on what we know of the world?
+- Does the speculation connect two or more seemingly unrelated facts?
+
+Ask the GM 1 question for each hit:
+
+- Where can I go or who can I ask to learn more?
+- What detail here have I missed?
+- What omen is there to be guided by?
+

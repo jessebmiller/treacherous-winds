@@ -89,6 +89,20 @@ TBD but something like:
 * Cultivate curiosity about characters arc questions
 * Name everyone, give everyone humanity, villainy, or both
 
+### Paint your wondrous and fantastical world 
+
+Daydream about the details of your epic fantasy world. The geology, the 
+views, the plants and animals, the cultures, the politics, the magic,
+the monsters. Wonder about, but don’t decide, its history.
+
+## GM Moves
+
+- Describe a detail. Often mundane. Sometimes wondrous, curious, or ominous.
+- Hint at a deeper and unfamiliar history.
+- Build on speculation. By confirming. By confounding.
+
+(more to come)
+
 ## Multiple Perspectives
 
 Epic fantasy literature is known for multiple perspectives. It can show the
