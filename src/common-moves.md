@@ -131,6 +131,8 @@ Ask the GM 1 question for each hit:
 - What does someone (or some character) wish I'd do?
 - What would it take to get anyone, or some specific someone to ___?
 
+## Explore
+
 When you **notice a sign of unfamiliar history** speculate on what it must
 mean then ask
 
