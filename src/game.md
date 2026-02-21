@@ -77,6 +77,24 @@ you might want, they happen. Any unchosen options that describe
 avoiding some outcome are invitations for the GM to inflict that
 outcome on you and the story.
 
+## EXPERIMENTAL DICE MECHANIC
+
+A "Yes" still adds 1d6 to your pool, these are Yes-dice, but risks get dice too.
+
+the GM decides the risk category based on how much control the rolling
+character has over the risk. Controlled, Managed, Influenced, or Left to Fate.
+The player adds a differently colored d6 for each Controlled risk, a d8 for
+each Managed risk, a d10 for each Influenced risk, and a d12 for each risk Left
+to Fate. Any risk die that is matched or beaten by a Yes-die is avoided (player
+choses which of each category to avoid if there are more than one).
+
+With enough Yes-dice a Controlled risk can always be avoided, but no amount of
+Yes-dice can ever avoid 25% of Managed risks (7-8 on a d8), 40% of Influenced
+risks, or 50% of risks Left to Fate.
+
+In extreme circumstances the GM can add two dice for a risk making it much more
+likely that the risk is impossible to avoid
+
 ## Principles and Agendas
 
 TBD but something like:

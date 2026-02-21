@@ -13,7 +13,7 @@ something higher, or outside this mortal realm.
 - [Rogue](./playbooks/rogue.md)
 - [Bard](./playbooks/bard.md)
 - [Ranger](./playbooks/ranger.md)
-- [Paladin](./playbooks/paladin.md)
+- [Paladin](./playbooks/paladin.md) 
 - [Sorcerer](./playbooks/sorcerer.md)
 
 ## Maturity playbooks
@@ -23,7 +23,7 @@ something higher, or outside this mortal realm.
 - Warlord
 - Guildmaster
 - Herald
-- Warden
+- Warden 
 - Cleric
 - Magister
 
