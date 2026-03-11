@@ -38,6 +38,15 @@ them during their roll (see Rolling with questions below). Talk it
 through until players and GM both understand and agree what the
 character is doing and what the Risks are.
 
+## Unavoidable Risks
+
+If there is ever a risk that is unavoidable the GM will say so.  
+
+If there is ever a risk that might be unavoidable the GM may add a d8, d10,
+d12, or d20 to the roll depending on how likely it is to be unavoidable. If
+that die rolls the highest, then that risk is unavoidable and cannot be
+avoided.
+
 ### Rolling with questions
 
 Most moves will instruct you to answer a few yes/no questions.  Let
@@ -77,24 +86,6 @@ you might want, they happen. Any unchosen options that describe
 avoiding some outcome are invitations for the GM to inflict that
 outcome on you and the story.
 
-## EXPERIMENTAL DICE MECHANIC
-
-A "Yes" still adds 1d6 to your pool, these are Yes-dice, but risks get dice too.
-
-the GM decides the risk category based on how much control the rolling
-character has over the risk. Controlled, Managed, Uncontrolled, or Left to Fate.
-The player adds a differently colored d6 for each Controlled risk, a d8 for
-each Managed risk, a d10 for each Uncontrolled risk, and a d12 for each risk Left
-to Fate. Any risk die that is matched or beaten by a Yes-die is avoided (player
-choses which of each category to avoid if there are more than one).
-
-With enough Yes-dice a Controlled risk can always be avoided, but no amount of
-Yes-dice can ever avoid 25% of Managed risks (7-8 on a d8), 40% of Uncontrolled
-risks, or 50% of risks Left to Fate.
-
-In extreme circumstances the GM can add two dice for a risk making it much more
-likely that the risk is impossible to avoid
-
 ## Principles and Agendas
 
 TBD but something like:
@@ -116,15 +107,17 @@ the monsters. Wonder about, but don’t decide, its history.
 ## GM Moves
 
 - Describe a detail. Often mundane. Sometimes wondrous, curious, or ominous.
-- Hint at a deeper and unfamiliar history.
+- Show a deeper and unfamiliar history.
 - Build on speculation. By confirming. By confounding.
+- Show a status quo and it's reasons for existing
+- Show the power of an institution
+- Reveal a prophecy
+- Offer an omen
+- Follow the thread
+- Test their reputations, challenge their positions
+- Commit someone to another's cause
+- Bet the redemption of a villain on the actions of an innocent
+- Present a ruin, artifact, or other rumor of forgotten power
 
 (more to come)
 
-## Multiple Perspectives
-
-Epic fantasy literature is known for multiple perspectives. It can show the
-vastness and wondrousness of the world to see it from different angles, and
-through different eyes. Whenever anyone wants to, introduce another PC.
-<TODO: write some player advice about playing multiple characters. Keep them
-separate, out of the same scene where possible, keep their objectives their own>

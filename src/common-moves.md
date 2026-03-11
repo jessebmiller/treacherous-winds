@@ -131,6 +131,12 @@ Ask the GM 1 question for each hit:
 - What does someone (or some character) wish I'd do?
 - What would it take to get anyone, or some specific someone to ___?
 
+### Varients of Comprehend
+
+- introduction moves
+  - When you notice a curious person, place, or thing
+  - When you study a curious person, place, or thing
+
 ## Explore
 
 When you **notice a sign of unfamiliar history** speculate on what it must
@@ -145,4 +151,12 @@ Ask the GM 1 question for each hit:
 - Where can I go or who can I ask to learn more?
 - What detail here have I missed?
 - What omen is there to be guided by?
+
+## Surreptitiously
+
+When you make a move, if you do it **Surreptitiously**. Say how you hide your
+move.
+
+Add the single combined risk that you are found out and earn an appropriate
+reputation.
 

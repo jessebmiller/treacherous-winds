@@ -44,6 +44,16 @@ Risk ideas:
 When you [**seduce, bluff, manipulate or
 lie**](../common-moves.html#manipulate-someone) roll with +1 die.
 
+## Go unnoticed
+
+When you make a move **Surreptitiously** Roll with an extra die for each hard lesson learned.
+
+### Hard lessons
+
+- How did you loose your freedom by acting surreptitiously?
+- How did you suffer serious injury by acting surreptitiously?
+- How did you lose someone you love by acting surreptitiously?
+
 ## Mark
 
 When you [**Comprehend**](../common-moves.md#comprehend) you may spend a hit on:
