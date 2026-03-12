@@ -10,7 +10,7 @@ Players choose to **Speculate** or **Observe**. One or the other, not both.
 
 If you choose to **Speculate**, tell the GM what you think it must mean, the GM
 may establish specific risks if any are relevant. The GM may also establish any
-number of **Miss Something** (see below) then ask:
+number of **Miss Something** (see below) tokens at risk, then ask:
 
 - Is the speculation plausible?
 - Does the speculation build on what we know of the world?
