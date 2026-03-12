@@ -6,9 +6,11 @@ curious about.
 
 Anyone may ask setting the scene and stakes questions.
 
-Players choose to **Speculate** or **Observe**.
+Players choose to **Speculate** or **Observe**. One or the other, not both.
 
-If you **Speculate** tell the GM what you think it must mean, then ask:
+If you choose to **Speculate**, tell the GM what you think it must mean, the GM
+may establish specific risks if any are relevant. The GM may also establish any
+number of **Miss Something** (see below) then ask:
 
 - Is the speculation plausible?
 - Does the speculation build on what we know of the world?
@@ -20,14 +22,17 @@ Ask the GM 1 question for each hit:
 - What detail here have I missed?
 - What omen is there to be guided by?
 
-If you choose to **observe**, ask:
+If you choose to **observe**, the GM may establish specific risks if any are
+relevant. The GM may also establish any number of **Miss Something** (see
+below) tokens at risk. Ask:
 
 - Has your background or past experience prepared you to understand this
   encounter?
 - Are you unencombered by distraction, tunnelvision, or hurry?
 - Do you fear the danger of this situation or person?
 
-Ask the GM 1 question for each hit:
+Roll 1d6 for each "yes" and for each hit either avoid missing something or ask
+the GM 1 question:
 
 - What just happened here?
 - Is something about to happen?
@@ -49,3 +54,13 @@ In these situations the GM may choose to proceed:
   one hit Observe without a roll
 - with a combined roll
 - with individual rolls
+
+## Miss Something
+
+When encountering something new it is generally a risk that one might miss
+something important. We use tokens to represent that something was missed. When
+a Miss Something token is at risk and that risk is not avoided, the GM gains
+the token and may spend it to introduce complications, difficulties,
+challenges, twists, or novelties when they see the opportunity for one. The GM
+holds these tokens until the circumstances that created them pass or another
+unrelated circumstance creates some tokens. Use your judgement.
