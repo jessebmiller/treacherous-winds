@@ -47,9 +47,9 @@ the GM 1 question:
 - What would it take to get anyone, or some specific someone to ___?
 - What might cause ___ to happen?
 
-Oftentimes the party encounter something unfamiliar together and therefore
-will all be curious, for example when a new character is introduced or a city
-In these situations the GM may choose to proceed:
+Oftentimes the party encounter something unfamiliar together and therefore will
+all be curious, for example when a new character is introduced or a city comes
+into view over the horizon. In these situations the GM may choose to proceed:
 - without a roll granting each player the option of a one hit Speculate or a
   one hit Observe without a roll
 - with a combined roll
