@@ -5,6 +5,7 @@
 - [Character Creation](./characters.md)
 - [Setting the Setting](./setting-the-setting.md)
 - [Common Moves](./common-moves.md)
+- [Encounters and Exploration](./encounters-and-exploration.md)
 - [Playbooks](./playbooks.md)
   - [Fighter](./playbooks/fighter.md)
   - [Rogue](./playbooks/rogue.md)
