@@ -1,5 +1,12 @@
 # Bard
 
+## TODO Folk Magic
+
+- Fertility, matchmaking etc.
+- Weather
+- Wealth
+- Luck
+
 ## Powerful performance
 
 When you **perform for a crowd** describe your performance and ask:
