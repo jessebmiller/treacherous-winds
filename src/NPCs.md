@@ -53,8 +53,13 @@ naming bonds, reputations, hopes, plans, etc.
 
 ### Monster
 
+Write down the Monster drive and questions. Answer the ones you can. Play to
+learn the answers to the others.
+
 **Drive:** To erode or destroy humanity.
+
 **Questions:**
+
 - How is the presence of the monster felt?
 - What are the early signs that a monster is around?
 - Who can ignore the signs? Who cannot?
@@ -62,8 +67,13 @@ naming bonds, reputations, hopes, plans, etc.
 
 #### Dragon
 
+Follow the Monster directions. Write down the Dragon drive and questions.
+Answer the ones you can. Play to learn the answers to the others.
+
 **Drive:** To consume and hoard.
+
 **Questions:**
+
 - What is a dragon? Does it breathe fire? Is it intelligent? Magical?
 - What are its strengths? Weaknesses?
 - What does it consume? What does it hoard?
@@ -72,7 +82,9 @@ naming bonds, reputations, hopes, plans, etc.
 ### Institution
 
 **Drive:** To maintain order. To consolidate power.
+
 **Questions:**
+
 - Who offers and who holds power? 
 - How are they chosen, and how do they keep or lose it?
 - What is the structure or hierarchy?
@@ -83,7 +95,9 @@ naming bonds, reputations, hopes, plans, etc.
 #### Kingdom/Nation
 
 **Drive:** To prosper.
+
 **Questions:**
+
 - What unifies the people in the kingdom?
 - What devides the people in the kingdom? Is the devision by law?
 - Who struggles with prosperity in this kingdom and who doesn't?
@@ -92,7 +106,9 @@ naming bonds, reputations, hopes, plans, etc.
 #### Religion/Faith/Church
 
 **Drive:** To convince and console.
+
 **Questions:**
+
 - What morality does it promote and what morality does it follow?
 - What is its mythology and how are its stories told?
 - Where do the faithful congregate?
@@ -101,59 +117,81 @@ naming bonds, reputations, hopes, plans, etc.
 #### City
 
 Drive:
+
 Questions:
+
 -
 
 #### Army/Guard
 
 Drive:
+
 Questions:
+
 -
 
 #### Merchant/Craft Guild
 
 Drive:
+
 Questions:
+
 -
 
 ### Agent
 
 Drive:
+
 Questions:
+
 -
 
 #### Zealot
 
 Drive:
+
 Questions:
+
 -
 
 ### Leader
 
 Drive:
+
 Questions:
+
 -
 
 #### Tyrant
+
 Drive:
+
 Questions:
+
 -
 
 #### Puppet Master
+
 Drive:
+
 Questions:
+
 -
 
 ### Magic
 
 Drive:
+
 Questions:
+
 -
 
 #### Arcane
 
 Drive:
+
 Questions:
+
 -
 
 ---
