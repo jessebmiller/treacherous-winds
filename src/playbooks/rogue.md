@@ -46,7 +46,7 @@ lie**](../common-moves.html#manipulate-someone) roll with +1 die.
 
 ## Go unnoticed
 
-When you make a move **Surreptitiously** Roll with an extra die for each hard lesson learned.
+When you make a move **Surreptitiously** Roll with an extra die for each hard lesson you've learned.
 
 ### Hard lessons
 
@@ -97,8 +97,8 @@ Answer **4** to move to Act Three.
 * What inner conflict do you have over manipulation?
 * What happens that you can't ignore or abide?
 * What conflict do you try to avoid and why do you fail?
-* How does a puppet master threaten your home and what status quo do they prey on?
-* What draws you away from home and what scheme must you execute before you return?
+* How does a puppet master threaten something you love and what status quo do they prey on?
+* What draws you away from familiarity and comfort and what scheme must you execute before you return?
 
 **Act Three:**
 

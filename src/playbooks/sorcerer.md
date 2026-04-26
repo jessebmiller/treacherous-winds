@@ -88,8 +88,6 @@ If there is a question about another character you are particularly curious abou
 
 Feel free to write your own questions where you are inspired. These are drawn from classic archetypes as a framework but go for the arc you're interested in.
 
-When you complete each of acts 1-4, gain a move from your Path.
-
 ## The enemy
 
 The archetypal enemy of the Absolute Tyrant. An Absolute Tyrant weilds absolute control over their domain by any effective means and they aim to expand their domain to the entire world.
@@ -114,8 +112,8 @@ Answer **4** to move to Act Three.
 * What inner conflict do you have about controlling your environment?
 * What happens that you can't ignore or abide?
 * What responsibilities do you try to avoid and why do you fail?
-* What enemy threatens your home and what status quo does the enemy prey on?
-* What draws you away from home and who must you defeat before you return?
+* What enemy threatens something you love and what status quo does the enemy prey on?
+* What draws you away from familiarity and comfort and who must you defeat before you return?
 
 **Act Three:**
 
