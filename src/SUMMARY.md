@@ -1,7 +1,7 @@
 # Summary
 
-- [Treacherous Winds](./introduction.md)
-- [The Game](./game.md)
+- [Alluvium Reigns](./alluvium-reigns.md)
+- [Stakes](./stakes.md)
 - [Character Creation](./characters.md)
 - [Setting the Setting](./setting-the-setting.md)
 - [Common Moves](./common-moves.md)

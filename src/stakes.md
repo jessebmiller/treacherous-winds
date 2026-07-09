@@ -1,8 +1,7 @@
-# The Game
+# Stakes
 
-[--CATS TBD--]
-
-[--The conversation from Apocalypse World--]
+Everything in *Alluvium Reigns* is a character and the engine that drives their
+story is their stakes. 
 
 ## Moves
 

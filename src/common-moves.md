@@ -106,11 +106,3 @@ the GM how many dice to roll. GM and the rest of the table may ask relevant ques
 
 Avoid a risk or achieve an outcome for each hit.
 
-## Surreptitiously
-
-When you make a move, if you do it **Surreptitiously**. Say how you hide your
-move.
-
-Add the single combined risk that you are found out and earn an appropriate
-reputation.
-

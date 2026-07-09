@@ -1,42 +1,29 @@
-# Treacherous Winds
+# Alluvium Reigns SRD
 
-WORK IN PROGRESS: Epic Fantasy Role Playing. Nothing more.
-* A big deep fantastic world
-* Politics and culture
-* Interesting magic systems
-* Multiple perspectives
-* Long character arcs
+A game of epic fantasy role playing with exploratory worldbuilding, complex
+politics, curious culture, multiple perspectives, long character arcs, and of
+course, magic.
 
-This is a System Resource Document (SRD) for a game that hasn't been
-made yet.
+Play to explore the world, its cultures, its magic. Play to find out how your
+characters change that world and are changed by it.
 
-There is enough here to play but its missing some critical parts. I
-hope you'll jump in and try it out then tell me how it goes. That
-would be increadibly helpful and right now is the best way to support
-me and the game.
+The tone of the game can be adventurous and introspective. It can be
+fantastical, wonderous, joyful, and brutally harsh. It can often be humorous
+though it leans into serious themes of power, humanity, comradery, faith,
+nature, civilization, struggle, institutions, movements, hardship, and
+violence.
 
-You'll find big chunks of this SRD missing with a cold "TBD" if you're
-lucky, or just blank pages if you're not. I may reference other games
-that you may or may not know or have access to. I might say something
-like "Burning Wheel style lifepaths" or "The Conversation from
-Apocalypse World" in place of whole systems or sections until I've
-written them. These are mostly notes for myself, but if you see how it
-would work, by all means try it out and tell me about it.
+*Alluvium Reigns* is literary epic fantasy inspired by authors including N. K. Jemmison, Robin Hobb, Ursula K. Le Guin, Brian Jacques, George R. R. Martin, and your personal favoriate epic fantasy author.
 
-For insight into how I'm running this play test take a look at [Jay
-Dragon's Boomtown
-Playtesting](https://possumcreek.medium.com/boomtown-playtesting-0c6536ae48b0)
-article.
+## How to play
 
-Join the [Treacherous Winds Play Testing Discord
-server](https://discord.gg/dAQG7bcA22) if you want to get more
-involved, or just follow along. This server will only run as long as
-the game is in development. Once that's over everyone will be invited
-to a more permenant home for the game.
-
-I hope we get to play!
+It's a conversation... TBD: what is a roleplaying game?!?
 
 ## License
+
+This is a System Resource Document (SRD) designed as a stable base for third
+party creaters (maybe you?) to create compatible publishable content and new
+games based on this system. This is the system that powers *Alluvium Reigns*.
 
 The contents of this SRD are licensed under [Creative Commons
 Attribution 4.0 International (CC BY
@@ -62,4 +49,3 @@ This deed highlights only some of the key features and terms of the actual licen
 
 I'm not a lawyer and do not provide legal services.
 
-Pinapple is a perfectly good topping for pizza.
