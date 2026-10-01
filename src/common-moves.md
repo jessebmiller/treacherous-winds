@@ -2,65 +2,43 @@
 
 Everyone gets the following moves.
 
-## Fight untrained
+## Fight
 
-When you **fight untrained** ask:
+When you **fight** ask:
 
-* Are you defending yourself or someone you love?
-* Are you well rested and sober?
-* Are you of sound mind not driven by rage or hubris?
+- Are you defending yourself or someone you love?
+- Are you well rested and sober?
+- Are you of sound mind not driven by rage or hubris?
 
 Roll 1d6 for each yes and choose 1 for each hit:
 
-* Cause physical harm
-* Be taken seriously
-* Scramble away
+- Cause physical harm
+- Be taken seriously
+- Scramble away
 
 Risk ideas:
 - Harm
 - A grudge against you
 - A bad reputation
 
-## Manipulate someone
+## Catch someone's eye
 
-When you **seduce, bluff, manipulate, or lie** to an NPC, tell them
-what you want them to do then ask:
+When you **catch someone's eye** tell them what you hope or expect them to do about it then ask:
 
-- Is the request doable, safe, and sane?
-- Does no authority disaprove?
-- Do you have a positive reputation with them or a group they're in?
+- Do you hold station over them?
+- Is your hope or expectation safe and sane?
+- Is your hope or expectation congruent with a reputation or bond you have with them?
 
-Roll 1d6 for each yes an dchoose 1 for each hit:
+Roll 1d6 for each "yes" and choose one for each hit.
 
-- They are inclined to go along with you
-- Avoid a risk
+They either are or are not:
 
-Risk ideas:
-- They expect payment, reciprocity, or debt
-- Add a clock to answer the queston: Will they discover they've 
-  been manipulated and what revenge will they seek?
-- Add a Bond: They despise you (or love you) and seek to insert
-  themself into your affairs
-
-## Intimidate someone
-
-When you **Impose your will with the threat of violence** tell them
-what you want them to do then ask:
-
-- Can they see that you are better equipped or that you outnumber them?
-- Are you angry at, frustrated with, or cornered by them?
-- Do they lack recourse or levorage against you?
-
-Roll 1d6 for each 'yes' and choose 1 for each hit:
-
-- They go along with you
-- Avoid a risk
-
-Risk ideas:
-- Add a Clock to answer the question: How will they take their revenge 
-  for being threatened?
-- They find a way to undermine your larger goal while going along
-- Gain a bad reputation
+- provoked
+- inspired
+- alerted
+- charmed
+- unsettled
+- reassured
 
 ## Invoke your station
 
@@ -75,29 +53,13 @@ Roll 1d6 for each 'yes' and *THEY* either heed your words or *THEY*
 choose 1 for each hit:
 
 - Accept the punnishments your station allows
-- Accept a reputation for insolence
+- Accept a reputation for insolence with the institution or movement granting your station
 - Accept an economic setback (give valuables, lose a job, etc.)
 
 Risk ideas:
-- The institution that grants you your station demands something of you
+- The institution or movement that grants you your station demands something of you
 - You lose your station
 - Gain a bad reputation
-
-## Control a PC
-
-When you **seduce, lie, manipulate, bluff, fast talk, threaten, or
-invoke station against** a PC, tell them what you want them to do and
-roll 1d6 for each level of bond you have with them. No other bonuses
-can apply to this roll.
-
-Choose 1 for each hit:
-
-- If they go along, they mark XP
-- If they refuse, you increase your bond with them
-
-Risks: Have a conversation between players about how each character will
-feel about this and make any changes needed to keep the game satisfying
-for everyone
 
 ## Take a risk
 
@@ -106,3 +68,67 @@ the GM how many dice to roll. GM and the rest of the table may ask relevant ques
 
 Avoid a risk or achieve an outcome for each hit.
 
+## Speculate
+
+When you **speculate about something you've encountered**, tell the GM what
+you think it must mean, the GM may establish specific risks if any are
+relevant. The GM may also establish any number of **Miss Something** (see
+below) tokens at risk, then ask:
+
+- Is the speculation plausible?
+- Does the speculation build on what we know of the world?
+- Does the speculation connect two or more seemingly unrelated facts?
+
+Ask the GM 1 question for each hit:
+
+- Where can I go or who can I ask to learn more?
+- What detail here did I *almost* miss?
+- What omen is there to be guided by?
+
+## Make a read
+
+When you **Read a curious character, interaction, or situation**, the GM may
+establish specific risks if any are relevant. The GM may also establish any
+number of **Miss Something** (see below) tokens at risk.
+
+Ask:
+
+- Has your background or past experience prepared you to understand this?
+- Are you unencombered by distraction, tunnelvision, or hurry?
+- Do you fear the danger of this?
+
+Roll 1d6 for each "yes". Hold one for each hit until the end of the situation.
+Spend one point to either say how you didn't miss something after all (wheh the
+GM spends a token to say what you missed) or ask the GM one of the following
+questions:
+
+If you read a situation:
+
+- What just happened and what is about to happen?
+- What should I be on the lookout for?
+- What opportunities or vulnerabilities are available to me?
+- What here is not as it appears?
+- What might cause ___ to happen?
+- What here is a threat?
+- Who's in control here?
+- How might my antagonist benefit or or be frustrated by the situation?
+
+If you read a character:
+
+- Who is really in controll here?
+- What are they avoiding?
+- Who is being honest and who is not?
+- What are they really feeling?
+- What do they wish I'd do?
+- What would it take to get them to ___?
+- What are their intentions?
+
+## Miss Something
+
+When encountering something new it is generally a risk that one might miss
+something important. Use tokens to represent that something was missed. When
+a **Miss Something** token is at risk and that risk is not avoided, the GM gains
+the token and may spend it to introduce complications, difficulties,
+challenges, twists, or novelties when they see the opportunity for one. The GM
+holds these tokens until the circumstances that created them pass or another
+unrelated circumstance creates some tokens. Use your judgement.

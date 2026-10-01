@@ -1,11 +1,10 @@
 # Summary
 
 - [Alluvium Reigns](./alluvium-reigns.md)
-- [Stakes](./stakes.md)
+- [Stakes (outdated)](./stakes.md)
 - [Character Creation](./characters.md)
 - [Setting the Setting](./setting-the-setting.md)
 - [Common Moves](./common-moves.md)
-- [Encounters and Exploration](./encounters-and-exploration.md)
 - [Playbooks](./playbooks.md)
   - [Fighter](./playbooks/fighter.md)
   - [Rogue](./playbooks/rogue.md)
@@ -14,9 +13,5 @@
   - [Paladin](./playbooks/paladin.md)
   - [Sorcerer](./playbooks/sorcerer.md)
 - [Allignment](./allignment.md)
-- [Magic](./magic.md)
-  - [Arcane](./magic/arcane.md)
-  - [Divine](./magic/divine.md)
-  - [Natural](./magic/natural.md)
 - [NPCs](./NPCs.md)
 - [Bonds and Reputations](./bonds-and-reputations.md)
