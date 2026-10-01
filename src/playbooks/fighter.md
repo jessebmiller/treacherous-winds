@@ -1,18 +1,40 @@
 # Fighter
 
+Effective Violence
+
 Play a Fighter if you want internal struggles with aggression and violence and to fight a dragon.
 
 ## Moves
 
 Start with only the common moves. Gain one each time you complete each of acts 1-4 of your arc.
 
+### How do you fight?
+
+How do each of the following apply to how you currently understand a fight? Is that an assumption? Training? Hard won experience?
+
+- Power
+- Speed
+- Manuvering
+- Weapons
+- Armor
+- Defensive positioning
+- Offensive positioning
+- Patience
+- Aggression
+
 ### Martial expertise
+
+#### Hard Lessons
+
+- What lost fight left you questioning your own motives? What did that teach you about fighting?
+- What fight injury caused you to fail to meet an important obligation? What did that teach you about fighting?
+- What fight did you lose before you knew you were in one? What did that teach you about fighting?
 
 When you **fight with martial expertise** ask:
 
 - Are you better equipped?
 - Did you see the fight coming?
-- Are you exploiting a specific oportunity or in a defensive position?
+- Are you exploiting a specific feature of how you fight?
 
 Roll 1d6 for each 'yes' and choose 1 for each hit:
 
@@ -28,6 +50,12 @@ Risk ideas:
 
 ### Expressive violence
 
+#### Hard Lessons
+
+- Who did you lose because of your own physical violence?
+- What did you lose from fear of violent retribution?
+- What violent retribution against you still hurts to this day?
+
 When you intimidate someone and [**impose your will with the threat of
 violence**](../common-moves.md#intimidate-someone) Roll with the extra questions:
 
@@ -35,6 +63,12 @@ violence**](../common-moves.md#intimidate-someone) Roll with the extra questions
 - Do you have a reputation with them for brutality?
 
 ### Preparation sees preparation
+
+#### Hard Lessons
+
+- Do you know 1 aspect of how you fight by hard won experience?
+- Do you know 3 aspects of how you fight by hard won experience?
+- Do you know 9 aspects of how you fight by hard won experience?
 
 When you [**comprehend**](../common-moves.md#comprehend) you may spend a hit to ask
 

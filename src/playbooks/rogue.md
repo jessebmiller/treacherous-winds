@@ -62,6 +62,29 @@ When you [**Comprehend**](../common-moves.md#comprehend) you may spend a hit on:
 - Who here is keeping juicy secrets?
 - Who here is aware of me?
 
+## Hidden Compartments
+
+When you **suspect that there are hidden compartments or secret stashes** say where you think they are likely to be then ask:
+
+- Does someone have a long term need for that?
+- Did they have the means to create that and keep it hidden?
+- Do they have secret business or goods to hide there?
+
+Hold one for each hit, when you have the opportunity to check, you may spend a hold to choose 1 of the following
+
+- A long forgotten compartment or stash. How do you know it's been forgotten?
+- An actively used compartment or stash. How do you know it's in use?
+
+## Secret Vantage
+
+When you **Notice a hiding spot** describe it and ask:
+
+- Is the hiding spot a feature of a permenant structure?
+- Are the conditions it requires (maybe darkness, or a closed curtain) relatively common or simple to create?
+- Is it likely to be unknown to those who spend their lives here?
+
+Hold 1 for each hit. When you hide there and **make a read** spend your hold 1 for 1 as hits.
+
 ## Arc
 
 Let your curiosity about the questions in the following acts pull you towards their answers. Don't decide on the answers, play to find them out. Let the table know what questions you're curious about. If you find it helpful, write the current questions you want to focus on on note cards and keep them available for the rest of the table to reference.

@@ -1,5 +1,7 @@
 # Paladin
 
+Justified Violence
+
 Play a Paladin if you want internal struggles with justice and external struggles against hateful zealotry.
 
 ## Righteous authority
