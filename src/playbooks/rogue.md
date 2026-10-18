@@ -1,31 +1,50 @@
 # Rogue
 
-Play a rogue if you want internal struggle with subterfuge and an external scheme to undermine a Puppet Master.
+Play a rogue if you want internal struggle with subterfuge and an external
+scheme to undermine a Puppet Master.
 
-## Style and grace
+## Moves
+
+### Style and grace
+
+#### How You Fight Hard Lessons
+
+- How did you learn what style and grace actually means to how you fight?
+- How did you learn the limits of strength and power?
+- How did you learn the limits of excessive weaponry, armor, and other gear?
+- How did you learn the subtlies of positioning for a fight?
 
 When you **fight with style and grace** ask:
 
-- Can you move unconstrained?
-- Are you weilding nimble weaponry?
-- Are you lighter and quicker than them?
+- Can you move unconstrained and have you learned the hard lesson to take advantage of that?
+- Are you weilding nimble weaponry and have you learned the hard lesson to take advantage of that?
+- Are you lighter and quicker than them and have you learned the hard lesson to take advantage of that?
 
 Roll 1d6 for each 'yes' and choose 1 for each hit:
 
 - Inflict precise harm
 - Impress, frighten, or confuse them
 - Create and opportunity for escape
+- Disarm them
 
 Risk ideas:
 - suffer harm
-- Be put in a tough spot
+- Get into a tough spot
 - Gain a reputation
+- Make an enemy
 
-## Sneak attack
+### Sneak attack
+
+#### Hard Questions
+
+How has being noticed and recognized:
+- ruined your hopes and plans?
+- led to serious injury?
+- lost you someone you love?
 
 When you **attack from obscurity** ask:
 
-- Is your target unaware of your presense?
+- Is your target unaware of your position?
 - Are you able to wait for the best opportunity?
 - Did you have plenty of time to prepare?
 
@@ -38,15 +57,24 @@ Roll 1d6 for each 'yes' and choose 1 for each hit:
 Risk ideas:
 - Suffer harm
 - Get caught and recognized
+- Learn a hard lesson
 
-## Roguish charm
+### Roguish charm
+
+#### Hard Lessons
+
+How has seduction, manipulation, or lies
+- lost you your freedom?
+- harmed your reputation?
+- hurt someone you love?
 
 When you [**seduce, bluff, manipulate or
 lie**](../common-moves.html#manipulate-someone) roll with +1 die.
 
-## Go unnoticed
+### Go unnoticed
 
-When you make a move **Surreptitiously** Roll with an extra die for each hard lesson you've learned.
+When you make a move **Surreptitiously** Roll with an extra die for each hard
+lesson you've learned.
 
 ### Hard lessons
 
@@ -56,7 +84,8 @@ When you make a move **Surreptitiously** Roll with an extra die for each hard le
 
 ## Mark
 
-When you [**Comprehend**](../common-moves.md#comprehend) you may spend a hit on:
+When you [**Comprehend**](../common-moves.md#comprehend) you may spend a hit
+on:
 
 - Who here is hiding wealth?
 - Who here is keeping juicy secrets?
@@ -64,13 +93,15 @@ When you [**Comprehend**](../common-moves.md#comprehend) you may spend a hit on:
 
 ## Hidden Compartments
 
-When you **suspect that there are hidden compartments or secret stashes** say where you think they are likely to be then ask:
+When you **suspect that there are hidden compartments or secret stashes** say
+where you think they are likely to be then ask:
 
 - Does someone have a long term need for that?
 - Did they have the means to create that and keep it hidden?
 - Do they have secret business or goods to hide there?
 
-Hold one for each hit, when you have the opportunity to check, you may spend a hold to choose 1 of the following
+Hold one for each hit, when you have the opportunity to check, you may spend a
+hold to choose 1 of the following
 
 - A long forgotten compartment or stash. How do you know it's been forgotten?
 - An actively used compartment or stash. How do you know it's in use?
@@ -80,30 +111,41 @@ Hold one for each hit, when you have the opportunity to check, you may spend a h
 When you **Notice a hiding spot** describe it and ask:
 
 - Is the hiding spot a feature of a permenant structure?
-- Are the conditions it requires (maybe darkness, or a closed curtain) relatively common or simple to create?
+- Are the conditions it requires (maybe darkness, or a closed curtain)
+  relatively common or simple to create?
 - Is it likely to be unknown to those who spend their lives here?
 
-Hold 1 for each hit. When you hide there and **make a read** spend your hold 1 for 1 as hits.
+Hold 1 for each hit. When you hide there and **make a read** spend your hold 1
+for 1 as hits.
 
 ## Arc
 
-Let your curiosity about the questions in the following acts pull you towards their answers. Don't decide on the answers, play to find them out. Let the table know what questions you're curious about. If you find it helpful, write the current questions you want to focus on on note cards and keep them available for the rest of the table to reference.
+Let your curiosity about the questions in the following acts pull you towards
+their answers. Don't decide on the answers, play to find them out. Let the
+table know what questions you're curious about. If you find it helpful, write
+the current questions you want to focus on on note cards and keep them
+available for the rest of the table to reference.
 
-Remember all the other PCs have their own similar questions. Cultivate curiosity about theirs. Play to find out the answer to theirs as well.
-If there is a question about another character you are particularly curious about let them know but be careful not to impose on their character arc.
+Remember all the other PCs have their own similar questions. Cultivate
+curiosity about theirs. Play to find out the answer to theirs as well. If there
+is a question about another character you are particularly curious about let
+them know but be careful not to impose on their character arc.
 
-Feel free to write your own questions where you are inspired. These are drawn from classic archetypes as a framework but go for the arc you're interested in.
+Feel free to write your own questions where you are inspired. These are drawn
+from classic archetypes as a framework but go for the arc you're interested in.
 
 When you complete each of acts 1-4, gain a move from your Path.
 
 ## The enemy
 
-The archetypal enemy of the Rogue is the Puppet Master. A tyrant who manipulates others through subterfuge and lies for power.
-(editors note: Maybe there is a threats, or monster manual type section with this information)
+The archetypal enemy of the Rogue is the Puppet Master. A tyrant who
+manipulates others through subterfuge and lies for power. (editors note: Maybe
+there is a threats, or monster manual type section with this information)
 
 **Act One:**
 
-Focus: Understanding your home or mundane life and your place within it. (note to self: are these MC moves?)
+Focus: Understanding your home or mundane life and your place within it. (note
+to self: are these MC moves?)
 
 Answer **4** to move to Act Two.
 * What makes your home seem small?
@@ -114,18 +156,22 @@ Answer **4** to move to Act Two.
 
 **Act Two:**
 
-Focus: Disruption of your home or mundane life by a Puppet Master. Create it as a [world anchor](../setting-the-setting.md#world-anchor).
+Focus: Disruption of your home or mundane life by a Puppet Master. Create it as
+a [world anchor](../setting-the-setting.md#world-anchor).
 
 Answer **4** to move to Act Three.
 * What inner conflict do you have over manipulation?
 * What happens that you can't ignore or abide?
 * What conflict do you try to avoid and why do you fail?
-* How does a puppet master threaten something you love and what status quo do they prey on?
-* What draws you away from familiarity and comfort and what scheme must you execute before you return?
+* How does a puppet master threaten something you love and what status quo do
+  they prey on?
+* What draws you away from familiarity and comfort and what scheme must you
+  execute before you return?
 
 **Act Three:**
 
-Focus: Difficulties that challenge your sense of identity. Struggles that force personal growth.
+Focus: Difficulties that challenge your sense of identity. Struggles that force
+personal growth.
 
 Answer **4** to move on to Act Four.
 * What scheme surprisingly fails?
@@ -136,11 +182,14 @@ Answer **4** to move on to Act Four.
 
 **Act Four:**
 
-Focus: The seemingly insurmountable internal struggle with subterfuge and to undermine the Puppet Master.
+Focus: The seemingly insurmountable internal struggle with subterfuge and to
+undermine the Puppet Master.
 
 Answer **4** to move to The Climax
-* How does your plan to undermine the puppet master take you even further into the wider unknown world?
-* What false victory do you have against the puppet master and how do you discover that you haven't won?
+* How does your plan to undermine the puppet master take you even further into
+  the wider unknown world?
+* What false victory do you have against the puppet master and how do you
+  discover that you haven't won?
 * How do you struggle to undermine the puppet master?
 * What value or belief do you betray for a desperate false victory?
 * How is the false victory hollow and how does it ruin your aims?
@@ -148,17 +197,20 @@ Answer **4** to move to The Climax
 
 **The Climax:**
 
-Focus: Crossing an inexorable threshold to undermine the puppet master or be defeated
+Focus: Crossing an inexorable threshold to undermine the puppet master or be
+defeated
 
 Answer this, win or lose, to move on to Act Five
 * How do you finally, once and for all, execute your scheme?
 
 **Act Five:**
 
-Focus: The lessons you learned about subterfuge and understanding who you really are deep down
+Focus: The lessons you learned about subterfuge and understanding who you
+really are deep down
 
 Answer all of the following
-* Do you embody your own identity, separate from your manipulative instincts? How?
+* Do you embody your own identity, separate from your manipulative instincts?
+  How?
 * Do you you love yourself more than the power of subterfuge? How?
 * Do you sacrifice your cleverness and embrace love? How?
 * Are you empowered by love? How?

@@ -2,24 +2,29 @@
 
 Effective Violence
 
-Play a Fighter if you want internal struggles with aggression and violence and to fight a dragon.
+Play a Fighter if you want internal struggles with aggression and violence and
+to fight a dragon.
 
 ## Moves
 
 ### Martial expertise
 
-#### Hard Lessons
+#### How You Fight Hard Lessons
 
 - How did you learn what strength and power actually means to how you fight?
-- How did you learn what finess, speed, and accuracy actually means to how you fight?
-- How did you learn what weapons, armor, and other gear actually means to how you fight?
-- How did you learn what offensive and defensive positioning actually means to how you fight?
-- How did you learn what patience and aggression actually means to how you fight?
+- How did you learn what finess, speed, and accuracy actually means to how you
+  fight?
+- How did you learn what weapons, armor, and other gear actually means to how
+  you fight?
+- How did you learn what offensive and defensive positioning actually means to
+  how you fight?
+- How did you learn what patience and aggression actually means to how you
+  fight?
 
 When you **fight with martial expertise** ask:
 
-- Are you better equipped?
-- Did you see the fight coming?
+- Are you better equipped and have you learned the hard lesson to know?
+- Did you see the fight coming and have you learned the hard lesson to know?
 - Are you exploiting a specific feature of how you fight?
 
 Roll 1d6 for each 'yes' and choose 1 for each hit:
@@ -27,11 +32,13 @@ Roll 1d6 for each 'yes' and choose 1 for each hit:
 - Inflict precise or devistating physical harm
 - Impress, frighten, or dismay them
 - Pin them down
+- Disarm them
+- Damage their armor or other equipment
 
 Risk ideas:
 - Suffer harm
 - Get into a tough spot
-- Get a bad reputation
+- Get a reputation
 - Make an enemy
 
 ### Expressive violence
@@ -42,7 +49,8 @@ Risk ideas:
 - What did you lose from fear of violent retribution?
 - What violent retribution against you still hurts to this day?
 
-When you **catch someone's eye** with your potential for violence roll with the extra questions:
+When you **catch someone's eye** with your potential for violence roll with the
+extra questions:
 
 - Have they seen you fight?
 - Do you have a reputation with them for brutality?
@@ -51,9 +59,12 @@ When you **catch someone's eye** with your potential for violence roll with the 
 
 #### Hard Lessons
 
-- What lost fight left you questioning your own motives? What did that teach you about fighting?
-- What fight injury caused you to fail to meet an important obligation? What did that teach you about fighting?
-- What fight did you lose before you knew you were in one? What did that teach you about fighting?
+- What lost fight left you questioning your own motives? What did that teach
+  you about fighting?
+- What fight injury caused you to fail to meet an important obligation? What
+  did that teach you about fighting?
+- What fight did you lose before you knew you were in one? What did that teach
+  you about fighting?
 
 When you **make a read** you may spend a hit to ask
 
@@ -63,23 +74,33 @@ When you **make a read** you may spend a hit to ask
 
 ## Arc
 
-Let your curiosity about the questions in the following acts pull you towards their answers. Don't decide on the answers, play to find them out. Let the table know what questions you're curious about. If you find it helpful, write the current questions you want to focus on on note cards and keep them available for the rest of the table to reference.
+Let your curiosity about the questions in the following acts pull you towards
+their answers. Don't decide on the answers, play to find them out. Let the
+table know what questions you're curious about. If you find it helpful, write
+the current questions you want to focus on on note cards and keep them
+available for the rest of the table to reference.
 
-Remember all the other PCs have their own similar questions. Cultivate curiosity about theirs. Play to find out the answer to theirs as well.
-If there is a question about another character you are particularly curious about let them know but be careful not to impose on their character arc.
+Remember all the other PCs have their own similar questions. Cultivate
+curiosity about theirs. Play to find out the answer to theirs as well. If there
+is a question about another character you are particularly curious about let
+them know but be careful not to impose on their character arc.
 
-Feel free to write your own questions where you are inspired. These are drawn from classic archetypes as a framework but go for the arc you're interested in.
+Feel free to write your own questions where you are inspired. These are drawn
+from classic archetypes as a framework but go for the arc you're interested in.
 
 When you complete each of acts 1-4, gain a move from your Path.
 
 ## The enemy
 
-The archetypal enemy of the fighter is the dragon. A dragon is an aggressive, greedy, and violent tyrant. You may make the enemy a metaphorical dragon by highlighting their aggression, greed, violence, and tyrany.
-(editors note: Maybe there is a threats, or monster manual type section with this information)
+The archetypal enemy of the fighter is the dragon. A dragon is an aggressive,
+greedy, and violent tyrant. You may make the enemy a metaphorical dragon by
+highlighting their aggression, greed, violence, and tyrany. (editors note:
+Maybe there is a threats, or monster manual type section with this information)
 
 **Act One:**
 
-Focus: Understanding your home or mundane life and your place within it. (note to self: are these MC moves?)
+Focus: Understanding your home or mundane life and your place within it. (note
+to self: are these MC moves?)
 
 Answer **4** to move to Act Two.
 * What makes your home seem small?
@@ -90,7 +111,8 @@ Answer **4** to move to Act Two.
 
 **Act Two:**
 
-Focus: Disruption of your home or mundane life by a dragon. Create it as a [world anchor](../setting-the-setting.md#world-anchor).
+Focus: Disruption of your home or mundane life by a dragon. Create it as a
+[world anchor](../setting-the-setting.md#world-anchor).
 
 Answer **4** to move to Act Three.
 * What inner conflict do you have over aggression?
@@ -101,7 +123,8 @@ Answer **4** to move to Act Three.
 
 **Act Three:**
 
-Focus: Difficulties that challenge your sense of identity. Struggles that force personal growth.
+Focus: Difficulties that challenge your sense of identity. Struggles that force
+personal growth.
 
 Answer **4** to move on to Act Four.
 * What fight are you surprised to lose?
@@ -112,11 +135,14 @@ Answer **4** to move on to Act Four.
 
 **Act Four:**
 
-Focus: The seemingly insurmountable internal struggle against aggression and fight with the enemy.
+Focus: The seemingly insurmountable internal struggle against aggression and
+fight with the enemy.
 
 Answer **4** to move to The Climax
-* How does fighting the enemy take you even further into the wider unknown world?
-* What false victory do you have against the enemy and how do you discover that you haven't won?
+* How does fighting the enemy take you even further into the wider unknown
+  world?
+* What false victory do you have against the enemy and how do you discover that
+  you haven't won?
 * How do you struggle in the fight against the enemy?
 * What value or belief do you betray for a desperate false victory?
 * How is the false victory hollow and how does it ruin your aims?
@@ -131,10 +157,12 @@ Answer this, win or lose, to move on to Act Five
 
 **Act Five:**
 
-Focus: The lessons you learned about violence and understanding who you really are deep down
+Focus: The lessons you learned about violence and understanding who you really
+are deep down
 
 Answer all of the following
-* Do you embody your own identity, separate from your aggressive instincts? How?
+* Do you embody your own identity, separate from your aggressive instincts?
+  How?
 * Do you you love yourself more than the power of violence? How?
 * Do you sacrifice your aggression and embrace love? How?
 * Are you empowered by love? How?
